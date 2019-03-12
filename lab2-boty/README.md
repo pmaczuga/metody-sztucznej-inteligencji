@@ -215,7 +215,7 @@ Efekt wykorzystany w programie ELIZA polega na tym, żeby wywołać u użytkowni
 Kolejne kategorie odpowiedzialne są za identyfikację słowa kluczowego kon, odpowiednio jako prefiksu, sufiksu oraz infiksu w zdaniu wejściowym. Następnie bot zadaje pytanie skojarzone ze słowem kluczowym.
 
 
-#### Kontekst: <that>
+#### Kontekst: \<that>
 
 Ważnym elementem języka AIML jest tzw. kontekst, pozwala on rozróżnić pomiędzy kategoriami w przypadku jednakowego wzorca. Znajduje to zastosowanie szczególnie w przypadku częstych, jednakowych zdań użytkownika posiadających różne znaczenie (z uwagi na różny kontekst). Np. odpowiedzi _tak/nie_ udzielane przez użytkownika na różne pytania powinny skutkować różnymi reakcjami bota, uzależnionymi od pytania, na które padła dana odpowiedź. Oto przykład wykorzystania:
 ```
