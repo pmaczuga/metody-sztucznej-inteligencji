@@ -73,8 +73,8 @@ Aby uruchomić program należy wykorzystać skrypty startowe w katalogu bin. Dos
 - _simple-gui-console(.bat)_ - sesja przeprowadzana jest w trybie graficznym
 - _web-server(.bat)_ - prosty web server, dostęp przez przeglądarkę, domyślnie na porcie 2001
 
-W tym ćwiczeniu wykorzystamy prostą konsolę tekstową. Bezpośrednio po wpisaniu _simple-console(.bat)_ pojawi się znak zachęty do rozmowy z botem (trzeba jednak wcześniej ustawić zmienną środowiskową JAVA_HOME tak, by wskazywała na jdk). Niestety, bot nie będzie miał wiele do powiedzenia, ponieważ nie została załadowana żadna baza wiedzy. Aby tego dokonać można wykorzystać darmowe komponenty, dostępne http://aitools.org/Free_AIML_sets. Zakładając, że pliki z archiwum zostały umieszczone w katalogu _resources\testing\standard_ należy zmodyfikować plik _conf\bots.xml_ wpisując w znaczniku _<learn>_ taką ścieżkę:  
-_<learn>../resources/testing/standard/*.aiml</learn>_
+W tym ćwiczeniu wykorzystamy prostą konsolę tekstową. Bezpośrednio po wpisaniu _simple-console(.bat)_ pojawi się znak zachęty do rozmowy z botem (trzeba jednak wcześniej ustawić zmienną środowiskową JAVA_HOME tak, by wskazywała na jdk). Niestety, bot nie będzie miał wiele do powiedzenia, ponieważ nie została załadowana żadna baza wiedzy. Aby tego dokonać można wykorzystać darmowe komponenty, dostępne http://aitools.org/Free_AIML_sets. Zakładając, że pliki z archiwum zostały umieszczone w katalogu _resources\testing\standard_ należy zmodyfikować plik _conf\bots.xml_ wpisując w znaczniku _\<learn>_ taką ścieżkę:  
+_\<learn>../resources/testing/standard/*.aiml\</learn>_
 W pliku tym definiowane są boty obsługiwane przez kontener. Można zmienić domyślną nazwę bota (atrybut id znacznika bot).
 Teraz, uruchamiając ProgramD ponownie, można rozpocząć rozmowę z botem wyposażonym w "mózg". Pełen opis konfiguracji programu dostępny jest pod adresem:
 http://programw.sourceforge.net/#Configuration.2FDeployment  
@@ -104,14 +104,14 @@ W dalszej kolejności będziemy wypełniać go treścią, umieszczaną w obrębi
 
 #### Ładowanie bota
 
-Aby zbiór ten mógł być przetwarzany przez interpreter umieszczamy ścieżkę do niego w pliku _conf/bots.xml_, w znaczniku _<learn>_ naszego bota:  
-_<learn>../resources/testing/mybot.aiml</learn>_  
-Pozostałe znaczniki _<learn>_ powinny zostać usunięte lub wykomentowane.  
+Aby zbiór ten mógł być przetwarzany przez interpreter umieszczamy ścieżkę do niego w pliku _conf/bots.xml_, w znaczniku _\<learn>_ naszego bota:  
+_\<learn>../resources/testing/mybot.aiml\</learn>_  
+Pozostałe znaczniki _\<learn>_ powinny zostać usunięte lub wykomentowane.  
 Aby nie restartować programu interpretera po każdej zmianie wprowadzonej w _mybot.aiml_ można uruchomić tzw. _AIMLWatcher_, który z określoną częstotliwością będzie badał czy plik _mybot.aiml_ nie został zmodyfikowany i w razie konieczności ładował go ponownie. Można to osiągnąć modyfikując plik _conf/core.xml_. W obrębie znacznika  
-_<entry key="programd.use-watcher">false</entry>_  
+_\<entry key="programd.use-watcher">false</entry>_  
 należy zmienić wartość _false_ na _true_.
 Poniższy znacznik pozwala ustawić interwał czasowy z jakim interpreter testuje zbiory aiml ładowane za pomocą znacznika _<learn>_.  
-_<entry key="programd.watcher.timer">2000</entry>_
+_\<entry key="programd.watcher.timer">2000\</entry>_
 Dla naszych potrzeb wartość 2s będzie wystarczająca.
 
 **Od kilku wersji powyższy mechanizm nie działa. Gdyby komuś udało się znaleźć rozwiązanie tego problemu, proszę dać znać na forum.**
@@ -260,7 +260,7 @@ Nie sadze, zeby <set name="to"><star/></set> bylo wystarczajacym wyjasnieniem. C
 </category>
 ```
 
-Użytkownik wypowiada opinię rozpoczynającą się słowami _Uwazam ze_, na co reakcją jest pytanie bota _Dlaczego tak myslisz_. Uzasadnienie opinii, przykładowo '_bo tak_' zostaje dopasowane poprzez wzorzec * ponieważ następuje bezpośrednio po pytaniu bota _Dlaczego tak myslisz_ (znacznik _<that>_). Znacznik _<set>_ przypisuje predykatowi to wartość będącą uzasadnieniem i zwraca jednocześnie w miejscu przypisania swoją nazwę, co wynika z określenia predykatu _set-return="name"_. W drugim zdaniu odpowiedzi znacznik _<get>_ pobiera wartość predykatu i umieszcza w miejscu, w którym sam się znajduje. Efektem jest uzyskanie odpowiedzi _Nie sadze, żeby to było wystarczającym wyjaśnieniem. Czy naprawde uwazasz, ze 'bo tak' wystarczy ?_
+Użytkownik wypowiada opinię rozpoczynającą się słowami _Uwazam ze_, na co reakcją jest pytanie bota _Dlaczego tak myslisz_. Uzasadnienie opinii, przykładowo '_bo tak_' zostaje dopasowane poprzez wzorzec * ponieważ następuje bezpośrednio po pytaniu bota _Dlaczego tak myslisz_ (znacznik _\<that>_). Znacznik _\<set>_ przypisuje predykatowi to wartość będącą uzasadnieniem i zwraca jednocześnie w miejscu przypisania swoją nazwę, co wynika z określenia predykatu _set-return="name"_. W drugim zdaniu odpowiedzi znacznik _<get>_ pobiera wartość predykatu i umieszcza w miejscu, w którym sam się znajduje. Efektem jest uzyskanie odpowiedzi _Nie sadze, żeby to było wystarczającym wyjaśnieniem. Czy naprawde uwazasz, ze 'bo tak' wystarczy ?_
 Warto w pliku _conf/substitutions.xml_ dodać _podstawienia_ (jeśli jeszcze ich nie ma):
 ```
 <substitute find="," replace=" "/>
@@ -272,7 +272,7 @@ które pozwolą na dopasowanie innych wariantów formuły użytkownika wyrażaj�
 
 #### Kontekst: \<topic>
 
-Innym przykładem wykorzystania _kontekstu_ jest znacznik _<topic>_. Obejmuje kilka kategorii. Temat dalszej konwersacji z botem zostaje ustalony w wyniku dopasowania odpowiedniego wzorca. Od tego momentu dopasowania w sekcji <topic> uzyskują pierwszeństwo. Zostało to zobrazowane na poniższym przykładzie:
+Innym przykładem wykorzystania _kontekstu_ jest znacznik _\<topic>_. Obejmuje kilka kategorii. Temat dalszej konwersacji z botem zostaje ustalony w wyniku dopasowania odpowiedniego wzorca. Od tego momentu dopasowania w sekcji \<topic> uzyskują pierwszeństwo. Zostało to zobrazowane na poniższym przykładzie:
 ```
 <topic name="ZWIERZAKI">
 <category>
@@ -304,7 +304,7 @@ Innym przykładem wykorzystania _kontekstu_ jest znacznik _<topic>_. Obejmuje ki
 </category>
 ```
 
-Część kategorii należy do tematu o nazwie _ZWIERZAKI_. Początkowo dopasowywane są wzorce spoza tego tematu, i tak na stwierdzenie użytkownika aktywujące wzorzec _Zwierzęta *_ otrzymamy odpowiedź _Zwierzęta to istoty zywe_, nie należącą do żadnego tematu. Gdy użytkownik zada pytanie _Interesujesz się zwierzętami_, bot aktywuje temat _ZWIERZAKI_, którego kategorie od tej pory, jako obowiązującego tematu rozmowy, będą miały pierwszeństwo przy dopasowaniach i odpowie na pytanie użytkownika +Owszem, chetnie o nich porozmawiam_. Znacznik _<think>_ użyty jest w celu powstrzymania programu od wypisania na wyjście nazwy tematu. Po zmianie tematu (kontekstu) to samo stwierdzenie użytkownika aktywujące wzorzec _Zwierzęta *_ zostanie dopasowane do szablonu znajdujące się wewnątrz sekcji _<topic>_, czego rezultatem będzie wylosowanie jednego z trzech powyższych pytań. Inne stwierdzenia kwitowane będą reakcją bota _Jaki to ma związek ze zwierzętami ?_ z wyjątkiem frazy _Nie mam ochoty na ten temat rozmawiac._ Skutkiem będzie powrót do tematu _ogólnego_ i uprzejma odpowiedź _W porządku, nie rozmawiajmy o zwierzetach._
+Część kategorii należy do tematu o nazwie _ZWIERZAKI_. Początkowo dopasowywane są wzorce spoza tego tematu, i tak na stwierdzenie użytkownika aktywujące wzorzec _Zwierzęta *_ otrzymamy odpowiedź _Zwierzęta to istoty zywe_, nie należącą do żadnego tematu. Gdy użytkownik zada pytanie _Interesujesz się zwierzętami_, bot aktywuje temat _ZWIERZAKI_, którego kategorie od tej pory, jako obowiązującego tematu rozmowy, będą miały pierwszeństwo przy dopasowaniach i odpowie na pytanie użytkownika +Owszem, chetnie o nich porozmawiam_. Znacznik _\<think>_ użyty jest w celu powstrzymania programu od wypisania na wyjście nazwy tematu. Po zmianie tematu (kontekstu) to samo stwierdzenie użytkownika aktywujące wzorzec _Zwierzęta *_ zostanie dopasowane do szablonu znajdujące się wewnątrz sekcji _\<topic>_, czego rezultatem będzie wylosowanie jednego z trzech powyższych pytań. Inne stwierdzenia kwitowane będą reakcją bota _Jaki to ma związek ze zwierzętami ?_ z wyjątkiem frazy _Nie mam ochoty na ten temat rozmawiac._ Skutkiem będzie powrót do tematu _ogólnego_ i uprzejma odpowiedź _W porządku, nie rozmawiajmy o zwierzetach._
 
 
 #### Wyrażenie warunkowe
