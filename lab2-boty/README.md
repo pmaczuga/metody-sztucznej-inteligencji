@@ -41,8 +41,8 @@ W trakcie przeprowadzania ćwiczenia wykorzystane zostaną:
 
 ### ELIZA, ALICE I INNE BOTY
 
-**ELIZA** była pierwszym słynnym programem komputerowym, którego zadaniem była symulacja sesji psychoanalitycznej. W istocie jest to prosty algorytm polegający na powtarzaniu informacji dostarczonej przez użytkownika w formie nowego pytania. W najprostszej wersji algorytm podstawia słowa kluczowe pojawiające się we frazie użytkownika do ustalonych szablonów pytań zadawanych przez maszynę. Program ELIZA działał bardzo przekonująco dla wielu ludzi, którzy dali się uwieść tzw. efektowi ELIZA polegającemu na przypisywaniu znaczenia przez człowieka symbolom, które dla maszyny są jedynie przedmiotem analizy symbolicznej.
-Więcej informacji na temat ELIZY znaleźć można na:
+**ELIZA** była pierwszym słynnym programem komputerowym, którego zadaniem była symulacja sesji psychoanalitycznej. W istocie jest to prosty algorytm polegający na powtarzaniu informacji dostarczonej przez użytkownika w formie nowego pytania. W najprostszej wersji algorytm podstawia słowa kluczowe pojawiające się we frazie użytkownika do ustalonych szablonów pytań zadawanych przez maszynę. Program ELIZA działał bardzo przekonująco dla wielu ludzi, którzy dali się uwieść tzw. efektowi ELIZA polegającemu na przypisywaniu znaczenia przez człowieka symbolom, które dla maszyny są jedynie przedmiotem analizy symbolicznej.  
+Więcej informacji na temat ELIZY znaleźć można na:  
 http://www.alicebot.org/articles/wallace/eliza.html.  
 Na drugim biegunie znajduje się **ALICE** (www.alicebot.org) będąc jedną z najbardziej popularnych technologii do tworzenia chat-botów. Do budowania wiedzy bota wykorzystuje się język AIML (następny punkt). Podstawowymi częściami projektu są interpretery języka AIML oraz komponenty AIML definiujące zachowanie bota. Boty budowane w oparciu o technologię zaproponowaną przez twórców ALICE charakteryzują się dużymi możliwościami dostosowywania. W ramach projektu wolnodostępne są standardowy zbiór AIML określający typowe zachowania oraz specyficzne komponenty wiedzy (geografia, gotowanie, film, ekonomia) (http://www.alicebot.org/downloads/sets.html).  
 Obecnie w sieci można znaleźć wiele chat-botów (por. forum dla tego tematu). Katalogi dostępne są w poniższych lokalizacjach:  
@@ -78,7 +78,7 @@ _<learn>../resources/testing/standard/*.aiml</learn>_
 W pliku tym definiowane są boty obsługiwane przez kontener. Można zmienić domyślną nazwę bota (atrybut id znacznika bot).
 Teraz, uruchamiając ProgramD ponownie, można rozpocząć rozmowę z botem wyposażonym w "mózg". Pełen opis konfiguracji programu dostępny jest pod adresem:
 http://programw.sourceforge.net/#Configuration.2FDeployment  
-lub w pliku readme.html znajdującym się w katalogu głównym programu.  
+lub w pliku _readme.html_ znajdującym się w katalogu głównym programu.  
 W kolejnym punkcie zajmiemy się zdefiniowaniem własnego "mózgu" bota.
 
 
