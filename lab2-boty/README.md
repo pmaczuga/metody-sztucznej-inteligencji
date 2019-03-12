@@ -339,7 +339,7 @@ Wypierasz sie.
 </topic>
 ```
 
-Dowolna fraza użytkownika spotyka się z pytaniem bota _Naprawdę tak myślisz ?_ oraz ustawieniem tematu _WKOLO_. W tym temacie znajduje się jedna kategoria zawierająca w sekcji _<template>_ wyrażenie warunkowe _<condition>_ z listą wariantów _<li>_. Każda fraza użytkownika zostanie dopasowana przez gwiazdkę i pytanie bota _Tak czy Nie ?_ będzie powtarzane dopóki użytkownik nie udzieli jednej z tych odpowiedzi. Po udzieleniu odpowiedzi _Tak_ albo _Nie_ przez użytkownika bot zwróci odpowiednio ciąg _Przyznajesz sie_ bądź _Wypierasz sie_ i powróci do tematu _ogólnego_.
+Dowolna fraza użytkownika spotyka się z pytaniem bota _Naprawdę tak myślisz ?_ oraz ustawieniem tematu _WKOLO_. W tym temacie znajduje się jedna kategoria zawierająca w sekcji _\<template>_ wyrażenie warunkowe _\<condition>_ z listą wariantów _\<li>_. Każda fraza użytkownika zostanie dopasowana przez gwiazdkę i pytanie bota _Tak czy Nie ?_ będzie powtarzane dopóki użytkownik nie udzieli jednej z tych odpowiedzi. Po udzieleniu odpowiedzi _Tak_ albo _Nie_ przez użytkownika bot zwróci odpowiednio ciąg _Przyznajesz sie_ bądź _Wypierasz sie_ i powróci do tematu _ogólnego_.
 
 
 ### BIBLIOGRAFIA
