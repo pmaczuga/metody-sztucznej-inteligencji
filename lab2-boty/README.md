@@ -270,7 +270,7 @@ Warto w pliku _conf/substitutions.xml_ dodać _podstawienia_ (jeśli jeszcze ich
 które pozwolą na dopasowanie innych wariantów formuły użytkownika wyrażającej początkową opinię: _Uwazam, ze_ oraz _Uwazam,ze_ (przecinek i przerwa).
 
 
-#### Kontekst: <topic>
+#### Kontekst: \<topic>
 
 Innym przykładem wykorzystania _kontekstu_ jest znacznik _<topic>_. Obejmuje kilka kategorii. Temat dalszej konwersacji z botem zostaje ustalony w wyniku dopasowania odpowiedniego wzorca. Od tego momentu dopasowania w sekcji <topic> uzyskują pierwszeństwo. Zostało to zobrazowane na poniższym przykładzie:
 ```
