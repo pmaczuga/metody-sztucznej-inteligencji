@@ -239,7 +239,7 @@ Przykład ten obrazuje zastosowanie znacznika _<that>_. Jeśli pojawia się ze s
 
 #### Predykaty
 
-AIML pozwala na wykorzystanie _predykatów_ w sekcji _<template>_ kategorii, dzięki czemu łatwiej sterować przebiegiem konwersacji. W celu wykorzystania predykatu definiujemy go w pliku _conf/predicates.xml_ dodając linijkę:
+AIML pozwala na wykorzystanie _predykatów_ w sekcji _\<template>_ kategorii, dzięki czemu łatwiej sterować przebiegiem konwersacji. W celu wykorzystania predykatu definiujemy go w pliku _conf/predicates.xml_ dodając linijkę:
 
 ```
 <predicate name="to" default="something" set-return="name"/>
