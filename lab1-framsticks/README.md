@@ -2,7 +2,7 @@
 
 ### Sprawozdanie
 Jako google doc: https://docs.google.com/document/d/1CtmeOFYarUZEqythf7XOglmR2UrqVrNwxxS-bqAtzuc/edit?usp=sharing  
-Jako plik pdf: [Paweł_Maczuga.pdf]
+Jako plik pdf: [Paweł_Maczuga.pdf](Paweł_Maczuga.pdf)
 
 ### Konspekt
 1. Platforma [Framsticks](http://www.framsticks.com/).
