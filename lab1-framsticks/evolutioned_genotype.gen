@@ -1,0 +1,4281 @@
+# created Tue Mar 12 23:53:12 2019
+# by Framsticks 4.3
+org:
+name:Ehutur Etuha
+genotype:~
+WXQMiw(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:9.899,p:1][|G:-123.552, 0:16.715, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:1.96% mutation of 'Ugutug Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:87914
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0320396992471109
+distance:160.198496235555
+vertvel:0.000331508071717072
+vertpos:0.0515320713050776
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176149
+
+org:
+name:Esufik Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N][N, 3:3.101][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8])~
+info:0.43% mutation of 'Utufir Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88021
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0393227531189063
+distance:196.613765594532
+vertvel:0.000133915547194772
+vertpos:0.0414703113521212
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176363
+
+org:
+name:Ewafis Uteuha
+genotype:~
+(WLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8, si:2][N, 3:2.986][@][|G:-120.864, 0:14.872, 3:-25.63, 3:-2.338, 0:7.151, fo:0.04], , LRcMwwX[S]LCqFFFFFWX[@, 4:4.008][N, 5:7.724, si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8][N, 3:3.101][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:8.594, fo:0.04, s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04])~
+info:1.31% mutation of 'Ysafun Uteuha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:22
+numconnections:20
+num:88048
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0143905821590741
+distance:71.9529107953704
+vertvel:0.00271027862422662
+vertpos:0.312992009017766
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176417
+
+org:
+name:Imanak Sehe
+genotype:~
+WXQMiw(, MLCCqFFFFFWX[*][|G:105.379, si:999, in:0, in:0.8])~
+info:~
+Crossing over of 'Esufik Etuha' (98.57%) and 'Ymiwuh Etuha' (1.43%)~
+energy0:1.0
+numparts:3
+numjoints:2
+numneurons:4
+numconnections:2
+num:88081
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:1.70176684244635e-05
+distance:0.0850883421223173
+vertvel:2.34896114833918e-08
+vertpos:-0.0133337002339741
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176483
+
+org:
+name:Atanuk Okuhuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.902][G][N, 5:5.891, 3:-8.367, 0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N, -3:9.086, in:0.8, si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 0:5.959, fo:0.04, -6:1.263, fo:0.04, 0:1, si:2], , LRcMwwX[S]LCqMMX[*][N, in:0.8, si:2][@, -3:11.225][|G:-120.977, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081, fo:0.04, -5:-1.49, si:2, s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:10.045, in:0, in:0.8])~
+info:~
+Crossing over of 'Ehiwaz Otueha' (47.55%) and 'Ypanig Etuha' (52.45%)~
+energy0:1.0
+numparts:8
+numjoints:7
+numneurons:22
+numconnections:23
+num:88086
+gnum:488
+instances:1
+lifespan:5000.0
+velocity:0.00681574614345564
+distance:34.0787307172782
+vertvel:0.00127825816150026
+vertpos:0.191735406679982
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176493
+
+org:
+name:Ufafap Ekuhuha
+genotype:~
+WXQMiw(, rCqWWX[@, 4:4.008][N, 5:7.724, si:2]LLLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8, si:2][N, 3:2.986][@, -4:13.377][|G:-120.864, 0:14.872, 3:-25.63, 3:-2.338, 0:8.924, fo:0.04], , LRcMwwX[S]LCqFFFFFWX[*]X[*][N, in:0.8][N, 3:3.101][@, -4:10.426][|G:-123.552, 0:13.67, 3:-26.941, 3:-1.312, 0:7.074, fo:0.04, s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04])~
+info:1.54% mutation of 'Edafal Ekuhuha'
+energy0:1.0
+numparts:9
+numjoints:8
+numneurons:23
+numconnections:21
+num:88115
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.00419759127469924
+distance:20.9879563734962
+vertvel:0.000909192524792225
+vertpos:0.134169162077863
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176551
+
+org:
+name:Uciwu Etuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:2.694,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:0.944624][@, -3:9.843][|G:-124.073, 0:13.67, 3:-24.304, 3:-2.981, 0:6.081,fo:0.04,-5:1.918,si:2,s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:10.694, in:0, in:0.8])~
+info:2.43% mutation of 'Adiwaw Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:12
+num:88103
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.038265667390288
+distance:191.32833695144
+vertvel:0.000123633401317071
+vertpos:0.0561291571990462
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176527
+
+org:
+name:Iryit Sehe
+genotype:IXQFFMFX[*][|G:100.134, si:999, in:0, in:0.8]
+info:~
+Crossing over of 'Imiwin Atuha' (92.86%) and 'Esufar Atuha' (7.14%)~
+energy0:1.0
+numparts:3
+numjoints:2
+numneurons:4
+numconnections:2
+num:88171
+gnum:489
+instances:1
+lifespan:5000.0
+velocity:4.6448353894615e-05
+distance:0.232241769473075
+vertvel:4.90553289827916e-09
+vertpos:-0.0133309082575113
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176663
+
+org:
+name:Yrufuf Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:9.583][G][N, 5:9.501, 3:-10.179,si:2]LLLFFFFFWFFFMFMMMX[*][N,-3:6.624,in:0.8][N][@, -4:8.634][|G:-123.538, 0:13.67, 3:-26.657, 3:-1.498, 0:7.074,fo:0.04,-6:1.684], , LRcqMwwwwXLCqFFFFFWX[N,-3:1][*][|G:104.521, si:999, -8:7.976, in:0, in:0.8])~
+info:3.14% mutation of 'Okufut Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88255
+gnum:489
+instances:1
+lifespan:5000.0
+velocity:0.0352424583479225
+distance:176.212291739612
+vertvel:0.000185492827480773
+vertpos:0.127547599230194
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176831
+
+org:
+name:Ecutal Ekuyhuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFF rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:9.986][|G:-123.552, 0:13.534, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*]MMX[*][N,in:0.8][N, 3:3.372][@, -4:11.966][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:1.37% mutation of 'Inutag Ekuyhuha'
+energy0:1.0
+numparts:10
+numjoints:9
+numneurons:25
+numconnections:23
+num:88263
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.00300802104984381
+distance:15.040105249219
+vertvel:0.00100970243640863
+vertpos:0.116906413393908
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176848
+
+org:
+name:Iwiwas Ateuha
+genotype:~
+WXQMiw( rCqWWX[@, 5:10.518][G][N, 5:7.137, 3:-9.98,si:2,si:0.0669914]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:8.935][|G:-118.111, 0:13.67, 3:-26.657, 3:-1.867, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:3.36% mutation of 'Eniwik Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88304
+gnum:486
+instances:1
+lifespan:5000.0
+velocity:0.0281986719805552
+distance:140.993359902776
+vertvel:0.00109504622773406
+vertpos:0.10431914882608
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176931
+
+org:
+name:Ihutum Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:11.966][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:2.39% mutation of 'Ywutim Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:87787
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0394014686609104
+distance:197.007343304552
+vertvel:0.000148115092867623
+vertpos:0.0409556195552332
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g175895
+
+org:
+name:Emutis Etuha
+genotype:~
+qWXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:11.966][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:0.79% mutation of 'Ihutum Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88351
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0100983638567284
+distance:50.4918192836422
+vertvel:0.000572466456040632
+vertpos:0.186644268565145
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177026
+
+org:
+name:Yiwul Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8][N, 3:0.308][@, -4:6.421][|G:-121.035, 0:13.989, 3:-27.875, 3:-1.498, 0:7.074,fo:0.04,-6:-0.235], , LRcMwwX[S]LCqFFFFFWWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:3.65% mutation of 'Idiwug Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88353
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0394477628168593
+distance:197.238814084296
+vertvel:0.000129474009579662
+vertpos:0.0442109113969362
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177030
+
+org:
+name:Imutiz Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.376][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:3.59% mutation of 'Acutiz Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:12
+num:88366
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0398698270221604
+distance:199.349135110802
+vertvel:0.000125170249224892
+vertpos:0.0164583338372514
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177056
+
+org:
+name:Iwiwum Ateuha
+genotype:~
+WXQMiw( rCqWWX[@, 5:10.518][G][N, 5:7.137, 3:-9.98,si:2,si:0.0669914]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:8.935][|G:-118.111, 0:13.67, 3:-26.657, 3:-1.867, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:106.051, si:999, -8:10.043, in:0, in:0.8])~
+info:2.54% mutation of 'Iwiwas Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88367
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.0280977157306805
+distance:140.488578653402
+vertvel:0.000929345928238095
+vertpos:0.104412798101814
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177058
+
+org:
+name:Uutum Eteuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLMMMMMX[*][N,in:0.8,si:2]LLFFFMFMMMX[*][N,in:0.8][N, 3:3.178][@, -4:11.966][|G:-123.552, 0:14.323, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:~
+Crossing over of 'Ilanil Etuha' (90.98%) and 'Azutu Etuha' (9.02%)~
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:16
+numconnections:13
+num:88372
+gnum:488
+instances:1
+lifespan:5000.0
+velocity:0.00338446324960383
+distance:16.9223162480191
+vertvel:0.000380149585341189
+vertpos:0.0462420413000952
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177068
+
+org:
+name:Uduta Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:2.661][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.959][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:1.99% mutation of 'Izutir Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88380
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0384222355697932
+distance:192.111177848966
+vertvel:0.000171991729073513
+vertpos:0.0417459994356659
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177084
+
+org:
+name:Igiwif Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:1.523][G][N, 5:5.646, 3:-9.324,si:2,0:-0.197]LLLLLLLLLLLLFFFFLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:9.705][|G:-126.742, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:110.13, si:999, -9:10.694, in:0, in:0.8])~
+info:~
+Crossing over of 'Ugiwit Otueha' (97.95%) and 'Osutiw Etuha' (2.05%)~
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88384
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.0383447454509891
+distance:191.723727254946
+vertvel:0.000136682047676123
+vertpos:0.0647036388283446
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177092
+
+org:
+name:Yrafan Etuuha
+genotype:~
+WXQMiwW(, rCWWX[@, 4:4.008][N, 5:7.724, si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8][N][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074, fo:0.04, s:0][@, -3:11.064][|G:-125.965, 0:13.67, 3:-26.352, 3:-1.498, 0:7.074, fo:0.04, -5:3.731], , LRcMwwX[S]LCqFFFFRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04])~
+info:~
+Crossing over of 'Imiwud Atuha' (70.20%) and 'Asutu Etuha' (29.80%)~
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:19
+numconnections:20
+num:88388
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.00458388245259568
+distance:22.9194122629784
+vertvel:0.000418660703200118
+vertpos:0.0646508939283275
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177100
+
+org:
+name:Osiwis Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.76][G][N, 5:5.891, 3:-9.324,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:1.263,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:0.756][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:1.71% mutation of 'Opiwiw Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:87909
+gnum:480
+instances:1
+lifespan:5000.0
+velocity:0.0394414928581573
+distance:197.207464290786
+vertvel:0.000203433939995054
+vertpos:0.0819259356539706
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176139
+
+org:
+name:Imiwum Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:2.244][G][N, 5:5.646, 3:-9.324,si:2,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:12.992,in:0.8,si:2][N][@, -4:9.705][|G:-122.076, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1.053,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:2.72% mutation of 'Emiwah Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88409
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0393418709280257
+distance:196.709354640128
+vertvel:0.000119263473018371
+vertpos:0.0843890647894688
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177142
+
+org:
+name:Ugiwir Etuha
+genotype:~
+WXQMiwX(, rCqWWX[@][G][N, 4:3.037,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:2][@, -3:11.225][|G:-120.977, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081,fo:0.04,-5:0.852,si:2,s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:8.368, in:0, in:0.8])~
+info:0.42% mutation of 'Akiwaw Etuha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:14
+numconnections:12
+num:88413
+gnum:488
+instances:1
+lifespan:5000.0
+velocity:0.00914828045200706
+distance:45.7414022600353
+vertvel:0.000935298005793833
+vertpos:0.0770679352685428
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177150
+
+org:
+name:Ekiwig Ateuha
+genotype:~
+WXQMiw( rCqWWX[@, 5:10.518][G][N, 5:7.137, 3:-9.98,si:2,si:0.0669914]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:8.935][|G:-118.111, 0:14.083, 3:-26.657, 3:-1.867, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:2.17% mutation of 'Iwiwas Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88425
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.028519831112035
+distance:142.599155560175
+vertvel:0.00075303841858353
+vertpos:0.107388059118602
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177174
+
+org:
+name:Ykiwat Otueha
+genotype:~
+WXQMiwX(, rCqWWX[@, 5:2.244][G][N, 5:5.646, 3:-9.324,si:2,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:12.992,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1.053,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:0.34% mutation of 'Emiwah Otueha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:16
+numconnections:17
+num:88431
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.00816109874082618
+distance:40.8054937041309
+vertvel:0.000925348033506227
+vertpos:0.0966976637099794
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177186
+
+org:
+name:Etiwis Atuha
+genotype:~
+IXQMiww(, CqWWX[@, 4:0.255][G][N, 4:9.71, 2:-9.729,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[N,-2:2.825,in:0.8,si:2][N, 3:3.4,in:0.8][@, -3:11.064][|G:-124.588, 0:14.316, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-5:3.731], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.134, si:999, -7:9.833, in:0, in:0.8])~
+info:1.80% mutation of 'Eiwik Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:16
+num:88433
+gnum:479
+instances:1
+lifespan:5000.0
+velocity:0.00602814390018498
+distance:30.1407195009249
+vertvel:0.00078689630415096
+vertpos:0.116004221862417
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177190
+
+org:
+name:Atiwap Etuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:2.02,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:2][@, -3:9.843][|G:-124.073, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081,fo:0.04,-5:1.918,si:2,s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:10.694, in:0, in:0.8])~
+info:2.08% mutation of 'Yliwun Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:12
+num:87896
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0395864062315676
+distance:197.932031157838
+vertvel:0.000141295046425269
+vertpos:0.0442219039431667
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176113
+
+org:
+name:Ifutih Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:2.661][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.959][@, -4:9.986][|G:-124.249, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:3.19% mutation of 'Uduta Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88443
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0389848722289832
+distance:194.924361144916
+vertvel:0.000147600635285876
+vertpos:0.0243734486806435
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177210
+
+org:
+name:Idutu Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:3.306][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.376][@, -4:9.986][|G:-121.864, 0:13.67, 3:-27.629, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:3.19% mutation of 'Ucutus Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88447
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.0383727946461106
+distance:191.863973230553
+vertvel:0.000151864024086802
+vertpos:0.0367484382952331
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177218
+
+org:
+name:Ohiwid Ateuha
+genotype:~
+WXQMiw( rCqWWX[@, 5:10.518][G][N, 5:7.137, 3:-9.98,si:2,si:0.0669914]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:4.827][|G:-118.111, 0:14.083, 3:-26.657, 3:-1.867, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:1.81% mutation of 'Ekiwig Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88469
+gnum:488
+instances:1
+lifespan:5000.0
+velocity:0.028389192517564
+distance:141.94596258782
+vertvel:0.00109189503547909
+vertpos:0.126492222290315
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177262
+
+org:
+name:Ywiwah Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:2.244][G][N, 5:5.646, 3:-10.591,si:2,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:12.992,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:2.41% mutation of 'Eliwul Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:87952
+gnum:480
+instances:1
+lifespan:5000.0
+velocity:0.0395504173672585
+distance:197.752086836292
+vertvel:0.000162741152639054
+vertpos:0.0815077075402481
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176225
+
+org:
+name:Ufiwud Atauha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-9.361,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2,0:1][N, 3:0.308][@, -4:6.421][|G:-121.035, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,-6:-0.235], , LRcMwwX[S]LCqFFFFFWX[*][|G:102.435, si:999, -8:10.211, in:0, in:0.8])~
+info:2.55% mutation of 'Igiwu Atauha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:17
+num:88232
+gnum:482
+instances:3
+lifespan:5000.0
+velocity:0.0395762362910764
+distance:197.881181455382
+vertvel:0.000156026778509702
+vertpos:0.0483630364563721
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176785
+
+org:
+name:Egiwac Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.623][G][N, 5:2.706, 3:-9.324,si:2,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:6.415][|G:-124.073, 0:13.67, 4:-27.566, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:108.7, si:999, -9:10.694, in:0, in:0.8])~
+info:2.43% mutation of 'Afiwum Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88480
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0383212124474433
+distance:191.606062237216
+vertvel:0.000131073082083254
+vertpos:0.0260588697332505
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177285
+
+org:
+name:Okiwip Etueha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:3.037,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:2,4:1][@, -3:11.225][|G:-120.977, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081,fo:0.04,-5:0.852,si:2,s:0], wwX[S]LCX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:8.368, in:0, in:0.8])~
+info:~
+Crossing over of 'Yliwuh Etuha' (96.72%) and 'Osiwis Otueha' (3.28%)~
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:15
+numconnections:13
+num:88481
+gnum:489
+instances:2
+lifespan:5000.0
+velocity:0.00209381784298087
+distance:10.4690892149044
+vertvel:0.000486166028332266
+vertpos:0.0198965924228575
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177287
+
+org:
+name:Yzutip Etueha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:2.97][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 4:3.101][@, -4:11.966][|G:-123.552, 0:13.67, 4:-26.941, 4:-0.588, 0:7.074,fo:0.04,s:0.049], , LRcMwwX[*][S]LCqFFFFFWX[*][|G:105.82, si:999, -9:9.451, in:0, in:0.8,fo:0.04])~
+info:2.71% mutation of 'Amutit Etueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:13
+num:88484
+gnum:486
+instances:1
+lifespan:5000.0
+velocity:0.039420468577366
+distance:197.10234288683
+vertvel:0.000144222458724566
+vertpos:0.0602694477981044
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177293
+
+org:
+name:Apufup Etuha
+genotype:~
+WXQMiwWX(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLCFFFFFMMMMX[*][N][N, 3:3.101][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8])~
+info:0.43% mutation of 'Irufih Etuha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:14
+numconnections:13
+num:88486
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.00758207401477293
+distance:37.9103700738646
+vertvel:0.00126714321053555
+vertpos:0.103825944281691
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177297
+
+org:
+name:Omiwuc Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:8.931,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:-1.385, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:1.85% mutation of 'Ukiwap Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88470
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.0392101369972835
+distance:196.050684986418
+vertvel:0.00016382613185304
+vertpos:0.0441270758043067
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177264
+
+org:
+name:Iilus Sehe
+genotype:~
+fWXQMiww(, LLLLLLFLLLMFMMWX[*][|G:100.134, si:999, in:0, in:0.75086])~
+info:~
+Crossing over of 'Awiwa Etuha' (94.20%) and 'Unilad Atuhe' (5.80%)~
+energy0:1.0
+numparts:3
+numjoints:2
+numneurons:4
+numconnections:2
+num:88503
+gnum:493
+instances:1
+lifespan:5000.0
+velocity:1.99259452597169e-05
+distance:0.0996297262985847
+vertvel:1.93277530024689e-08
+vertpos:-0.0133349670059204
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177331
+
+org:
+name:Ylutaf Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:10.097][|G:-123.552, 0:14.323, 3:-25.888, 3:-0.309, 0:7.074,fo:0.04,s:-0.286], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:8.637, in:0, in:0.8,fo:0.04])~
+info:1.94% mutation of 'Alutak Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88506
+gnum:486
+instances:1
+lifespan:5000.0
+velocity:0.0361446516031284
+distance:180.723258015642
+vertvel:0.000237198170804797
+vertpos:0.0606424880941881
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177337
+
+org:
+name:Ytiwaz Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.76][G][N, 5:5.891, 3:-9.324,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:1.263,fo:0.04,0:0.425,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:0.756][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:1.74% mutation of 'Osiwis Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88510
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0384205976974409
+distance:192.102988487204
+vertvel:0.000252926393295997
+vertpos:0.109138998600535
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177345
+
+org:
+name:Ucegir Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.623][G][N, 5:2.706, 3:-9.324,si:2,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:6.415][|G:-124.073, 0:13.67, 4:-27.127, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:108.7, si:999, -9:10.694, in:0, in:0.8]X)~
+info:0.35% mutation of 'Afiwum Otueha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:16
+numconnections:17
+num:88511
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.00844850783049997
+distance:42.2425391524998
+vertvel:0.000588953882047109
+vertpos:0.0664616524346414
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177347
+
+org:
+name:Iriwu Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:-3.348][@, -4:6.725,p:1][|G:-121.421, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-6:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:2.87% mutation of 'Oriwal Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:87455
+gnum:480
+instances:2
+lifespan:5000.0
+velocity:0.0390280813752757
+distance:195.140406876379
+vertvel:0.000162063861593603
+vertpos:0.0463635297759074
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g175230
+
+org:
+name:Yputal Etuha
+genotype:~
+WXQMiw(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:7.36,p:1][|G:-123.552, 0:16.715, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:7.692, in:0, in:0.8,fo:0.04])~
+info:1.96% mutation of 'Ohutid Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88512
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0324084002912679
+distance:162.042001456339
+vertvel:0.000369568433660753
+vertpos:0.0565447143573445
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177349
+
+org:
+name:Owanah Yteuhe
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, si:2]LLLLLLLWX[@, 5:10.518]FFFFMMMMMX[*][N, in:0.8, si:2, 4:1][@][|G:-120.977, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081, fo:0.04, -5:0.852, si:2, s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, in:0, in:0.8])~
+info:~
+Crossing over of 'Yliwuh Etuha' (94.16%) and 'Akiwug Ateuha' (5.84%)~
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:15
+numconnections:11
+num:88519
+gnum:489
+instances:1
+lifespan:5000.0
+velocity:0.00478328267547225
+distance:23.9164133773612
+vertvel:0.00053187937336087
+vertpos:0.0611162546752009
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177363
+
+org:
+name:Igiwin Atauha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:11.77, 3:-9.361,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2,0:1][N, 3:0.308][@, -4:8.932][|G:-121.035, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,-6:-0.235], , LRcMwwX[S]LCqFFFFFWX[*][|G:102.435, si:999, -8:10.211, in:0, in:0.8])~
+info:1.82% mutation of 'Ydiwat Atauha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:17
+num:88530
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.0396544291625839
+distance:198.27214581292
+vertvel:0.000144682683298632
+vertpos:0.027642730998858
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177385
+
+org:
+name:Omiwan Etuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:3.037,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,4:1][@, -3:11.225][|G:-118.251, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081,fo:0.04,-5:0.852,si:2,s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:8.368, in:0, in:0.8])~
+info:2.05% mutation of 'Okiwip Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88531
+gnum:490
+instances:1
+lifespan:5000.0
+velocity:0.0383139409328303
+distance:191.569704664152
+vertvel:0.000245356281750829
+vertpos:0.0615040975680948
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177387
+
+org:
+name:Ykiwaz Atuha
+genotype:~
+IXQMiw(, rCqWWX[@][G][N, 5:5.646, si:2, 0:-0.197]LLLLLLLLLLFLLLLFFFLLLLLLFLLLLFFFMFMMMX[N, -2:7.783, in:0.8, si:2][N, 3:3.4, in:0.8][@, -3:11.064][|G:-125.965, 0:13.67, 3:-26.352, 3:-1.498, 0:7.074, fo:0.04, -5:3.731], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.134, si:999, -7:9.833, in:0, in:0.8])~
+info:~
+Crossing over of 'Ywiwah Otueha' (73.75%) and 'Imiwud Atuha' (26.25%)~
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:15
+num:88532
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0191683836407124
+distance:95.8419182035619
+vertvel:0.00067586574066999
+vertpos:0.0908990182520458
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177389
+
+org:
+name:Ahutum Etueha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:2.97][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 4:3.101][@, -4:11.966][|G:-123.552, 0:13.67, 4:-26.941, 4:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[*][S]LCqFFFFFWX[*][|G:102.817, si:999, -9:9.451, in:0, in:0.8,fo:0.04])~
+info:2.76% mutation of 'Ugutum Etueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:13
+num:88348
+gnum:484
+instances:2
+lifespan:5000.0
+velocity:0.0387832273436095
+distance:193.916136718048
+vertvel:0.000178230412401145
+vertpos:0.045658886492648
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177020
+
+org:
+name:Usiwas Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLX[@, 4:2.97][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 4:3.101][@, -4:11.966][|G:-123.552, 0:13.67, 4:-26.941, 4:-0.588, 0:7.074,fo:0.04,s:0.049], , LRcMwwX[*][S]LFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:~
+Crossing over of 'Iriwu Ateuha' (40.86%) and 'Yzutip Etueha' (59.14%)~
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:18
+numconnections:16
+num:88533
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.00051354086511879
+distance:2.56770432559395
+vertvel:0.000103348193245171
+vertpos:-0.0116322042906817
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177391
+
+org:
+name:Uciwag Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:1.523][G][N, 5:5.646, 3:-9.324,si:2,0:-0.197]LLLLLLLLLLLLFFFFLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:9.705][|G:-126.742, 0:13.67, 4:-26.87, 0:5.043,fo:0.04,-6:0.811,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:110.13, si:999, -9:10.694, in:0, in:0.8])~
+info:1.71% mutation of 'Igiwif Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88538
+gnum:486
+instances:1
+lifespan:5000.0
+velocity:0.0371341907791141
+distance:185.670953895571
+vertvel:0.000438793877445332
+vertpos:0.0766926449018857
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177401
+
+org:
+name:Iwiwag Etehuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 5:5.239, si:2, si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N, -3:10.27, in:0.8]WX[@, 4:2.661][N, 5:7.724, si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8][N, 3:2.959][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074, fo:0.04, s:0], , LRcMwwX[S]LCqFFMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:~
+Crossing over of 'Uduta Etuha' (50.14%) and 'Ukiwap Ateuha' (49.86%)~
+energy0:1.0
+numparts:9
+numjoints:8
+numneurons:20
+numconnections:15
+num:88539
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.000813628721161204
+distance:4.06814360580602
+vertvel:0.000496512640043083
+vertpos:0.0632922411569976
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177403
+
+org:
+name:Owiwah Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:2.244][G][N, 5:4.555, 3:-10.591,si:2,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:12.992,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:1.72% mutation of 'Ywiwah Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88541
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0387243496521464
+distance:193.621748260732
+vertvel:0.000141825917283302
+vertpos:0.073576232105293
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177407
+
+org:
+name:Etiwuc Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-27.21, 3:-1.498, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:2.59% mutation of 'Oliwut Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88497
+gnum:486
+instances:1
+lifespan:5000.0
+velocity:0.0387902284832163
+distance:193.951142416081
+vertvel:0.0001304946180917
+vertpos:0.035140308666806
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177319
+
+org:
+name:Ozanaf Yteuhe
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, si:2]LLLLLLLWX[@, 5:12.819]FFFFMMMMMX[*][N, in:0.8, si:2, 4:1][@][|G:-120.977, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081, fo:0.04, -5:0.852, si:2, s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, in:0, in:0.8])~
+info:2.55% mutation of 'Owanah Yteuhe'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:15
+numconnections:11
+num:88545
+gnum:490
+instances:1
+lifespan:5000.0
+velocity:0.00565246559350071
+distance:28.2623279675036
+vertvel:0.000485561220567989
+vertpos:0.0621671818058346
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177415
+
+org:
+name:Omiwah Atuha
+genotype:~
+IXQMiww(, rCqWWX[@, 4:0.255][G][N, 4:9.71, 2:-9.729,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[N,-2:2.825,in:0.8,si:2][N, 3:3.4,in:0.8][@, -3:11.064][|G:-124.588, 0:13.67, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-5:3.731], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.134, si:999, -7:9.833, in:0, in:0.8])~
+info:1.81% mutation of 'Yniwat Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:16
+num:88174
+gnum:477
+instances:1
+lifespan:5000.0
+velocity:0.0393081451615002
+distance:196.540725807501
+vertvel:0.000181140452581249
+vertpos:0.0478823351958753
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176669
+
+org:
+name:Ezanac Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N][N, 3:3.101][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-2.441, 0:7.074,fo:0.04], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:6.171, in:0, in:0.8])~
+info:1.69% mutation of 'Iranuw Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88547
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.0363544022697206
+distance:181.772011348603
+vertvel:0.000366141153951549
+vertpos:0.0803275132103939
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177419
+
+org:
+name:Yliwig Oteuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:1.727][G][N, 5:5.891, 3:-6.822,si:2,0:-0.197]LLLLLLLQMLLFFFMFMMMX[*][N,-3:9.086,si:2][N][@, -4:9.301][|G:-122.475, 0:13.67, 3:-25.151, 0:5.959,fo:0.04,fo:0.04,0:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:108.404, si:999, -8:10.694, in:0, in:0.8])~
+info:1.95% mutation of 'Eniwi Oteuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88553
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0376578855831641
+distance:188.28942791582
+vertvel:0.000167832316702832
+vertpos:0.0335067895569281
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177431
+
+org:
+name:Ezutig Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:2.661,p:1][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.959][@, -4:9.986][|G:-124.249, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:1.59% mutation of 'Ifutih Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88556
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.0346602957106171
+distance:173.301478553085
+vertvel:0.000200592621124834
+vertpos:0.0626110573053176
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177437
+
+org:
+name:Yliwuh Etuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:3.037,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:2,4:1][@, -3:11.225][|G:-120.977, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081,fo:0.04,-5:0.852,si:2,s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:8.368, in:0, in:0.8])~
+info:1.67% mutation of 'Akiwaw Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88320
+gnum:488
+instances:1
+lifespan:5000.0
+velocity:0.0391805944893575
+distance:195.902972446788
+vertvel:0.000196441910112377
+vertpos:0.0578629302856322
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176963
+
+org:
+name:Uniwaw Etuha
+genotype:~
+WXQMiw(, rCqWMwwX[*][S]LCqFFFFFWLLLLLLQMLLFFFMFMMMX[*][N,-3:9.086,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 3:-25.151, 0:5.959,fo:0.04,fo:0.04,0:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:108.404, si:999, -8:10.694, in:0, in:0.8])~
+info:~
+Crossing over of 'Omiwur Oteuha' (91.44%) and 'Ahutum Etueha' (8.56%)~
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:11
+num:88560
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.0209564843655659
+distance:104.782421827829
+vertvel:0.000967641800319126
+vertpos:0.0785562332247664
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177445
+
+org:
+name:Ihiwir Atuha
+genotype:~
+WXQMiww(, rCqWWX[@, 4:4.008][G][N, 4:9.237, 2:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N, 3:-3.348][@, -3:6.725,p:1][|G:-121.421, 0:12.432, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-5:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -7:10.211, in:0, in:0.8])~
+info:8.60% mutation of 'Imiwin Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:15
+num:88438
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0343108995051964
+distance:171.554497525982
+vertvel:0.000192496532794664
+vertpos:0.0525601616659105
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177200
+
+org:
+name:Ukiwap Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:-1.385, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:2.22% mutation of 'Oliwut Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88342
+gnum:486
+instances:1
+lifespan:5000.0
+velocity:0.0394225184877562
+distance:197.112592438781
+vertvel:0.000162959159442049
+vertpos:0.0492194047635111
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177008
+
+org:
+name:Aciwit Atuha
+genotype:~
+IXQMiww(, rCqWWX[@, 4:1.957][G][N, 4:9.71, 2:-11.79,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[N,-2:7.783,in:0.8,si:2][N, 3:3.4,in:0.8][@, -3:11.064][|G:-124.588, 0:13.67, 3:-26.352, 3:-1.498,fo:0.04,-5:3.731], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.134, si:999, -7:9.833, in:0, in:0.8])~
+info:3.25% mutation of 'Apiwak Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:15
+num:88568
+gnum:479
+instances:3
+lifespan:5000.0
+velocity:0.0214488252121069
+distance:107.244126060534
+vertvel:0.000215975796823876
+vertpos:0.0513109357892924
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177461
+
+org:
+name:Owiwar Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,s:0][N, 3:0.308][@, -4:6.421][|G:-121.035, 0:13.989, 3:-27.875, 3:-1.498, 0:7.074,fo:0.04,-6:-0.235], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:1.46% mutation of 'Idiwug Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88570
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0395047817505879
+distance:197.523908752939
+vertvel:0.000138627010878983
+vertpos:0.0365997538940548
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177465
+
+org:
+name:Ufutak Etueha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:2.97][N, 5:7.724,si:2]XLLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 4:3.101][@, -4:11.966][|G:-123.552, 0:13.67, 4:-26.941, 4:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[*][S]LCqFFFFFWX[*][|G:102.817, si:999, -9:9.451, in:0, in:0.8,fo:0.04])~
+info:0.39% mutation of 'Ahutum Etueha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:15
+numconnections:13
+num:88573
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.00931104701394994
+distance:46.5552350697497
+vertvel:0.000235145216748149
+vertpos:0.0380544655574203
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177471
+
+org:
+name:Ysiwuz Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:1.523][G][N, 5:5.646, 3:-9.324,si:2,0:-0.197]LLLLLLLLLLLLFFFFLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:9.705][|G:-126.742, 0:13.67, 4:-28.088, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:110.13, si:999, -9:10.694, in:0, in:0.8])~
+info:2.40% mutation of 'Igiwif Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88574
+gnum:486
+instances:1
+lifespan:5000.0
+velocity:0.0379565349218907
+distance:189.782674609453
+vertvel:0.000199888304835285
+vertpos:0.0630496158246
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177473
+
+org:
+name:Urutam Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:9.986][|G:-122.814, 0:13.67, 3:-26.507, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:2.80% mutation of 'Atutiz Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88562
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.0380031164424026
+distance:190.015582212013
+vertvel:0.000195673253612373
+vertpos:0.0540287055502745
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177449
+
+org:
+name:Oriwar Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:-3.348][@, -4:7.886,p:1][|G:-121.421, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-6:1]X, , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:0.36% mutation of 'Ysiwaf Ateuha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:15
+numconnections:16
+num:88576
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.00655383644310215
+distance:32.7691822155108
+vertvel:0.00105076793286867
+vertpos:0.119963712498147
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177477
+
+org:
+name:Etanig Yhehe
+genotype:~
+WXMiw(, rCqWWX[@][G][N, si:2, 0:-0.197]WX[*][|G:104.467, si:999, in:0, in:0.8])~
+info:8.86% mutation of 'Utanak Yhehe'
+energy0:1.0
+numparts:4
+numjoints:3
+numneurons:7
+numconnections:3
+num:88577
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.00670813613672762
+distance:33.5406806836381
+vertvel:0.000411222794290132
+vertpos:0.0173467634105338
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177479
+
+org:
+name:Atiwag Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.76][G][N, 5:5.891, 3:-9.324,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:1.263,fo:0.04,0:1.104,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:0.756][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:1.74% mutation of 'Osiwis Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88579
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0393632641230303
+distance:196.816320615152
+vertvel:0.00013072799682173
+vertpos:0.0390284846549447
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177483
+
+org:
+name:Esiwah Etueha
+genotype:~
+WXQMiwwl(, rCqWWX[@, 5:4.008][G][N, 5:9.237,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:0.308][@, -4:6.421][|G:-121.035, 0:15.95, 4:-26.352, 4:-1.498, 0:7.074,fo:0.04,-6:-0.235], , LRcMwwX[S]LCqFFFFFWX[S][*][|G:100.486, si:999, -9:10.211, in:0, in:0.8])~
+info:0.37% mutation of 'Epiwuz Etueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:15
+num:88583
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.037663423272985
+distance:188.317116364925
+vertvel:0.000263812473121775
+vertpos:0.0574533984165891
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177491
+
+org:
+name:Iniwih Atuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 4:9.237, 3:-9.361,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2,0:1][N, 2:0.308][|G:-121.035, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,-5:-0.235], , LRcMwwX[S]LCqFFFFFWX[*][|G:102.435, si:999, -7:10.211, in:0, in:0.8])~
+info:4.74% mutation of 'Ufiwud Atauha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:16
+num:88584
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.023480661541237
+distance:117.403307706185
+vertvel:0.000877056788573406
+vertpos:0.112450039205074
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177493
+
+org:
+name:Agegak Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:0.42, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8]X)~
+info:0.37% mutation of 'Ihiwif Ateuha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:15
+numconnections:15
+num:88586
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.010052006535472
+distance:50.2600326773602
+vertvel:0.000621978952445189
+vertpos:0.0900383602303042
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177497
+
+org:
+name:Ofunaf Ateho
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:11.85][|G:-118.111, 0:13.67, 0:7.074,fo:0.04], , LRcMwwwwX[S])~
+info:21.72% mutation of 'Ysiwig Ateuha'
+energy0:1.0
+numparts:5
+numjoints:4
+numneurons:11
+numconnections:10
+num:88589
+gnum:488
+instances:1
+lifespan:5000.0
+velocity:0.000168084111850113
+distance:0.840420559250563
+vertvel:1.08826629648955e-06
+vertpos:-0.0159727595075892
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177503
+
+org:
+name:Emiwal Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:2.244][G][N, 5:5.646, 3:-10.591,si:2,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:12.992,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:-0.176,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:2.06% mutation of 'Ywiwah Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88590
+gnum:481
+instances:2
+lifespan:5000.0
+velocity:0.0374987529838256
+distance:187.493764919128
+vertvel:0.000384868074988805
+vertpos:0.103942374972424
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177505
+
+org:
+name:Osiwat Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:-3.348][@, -4:6.725,p:1][|G:-120.465, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-6:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:2.87% mutation of 'Iriwu Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88591
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0384391880151682
+distance:192.195940075841
+vertvel:0.000176676740868231
+vertpos:0.0499856649655293
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177507
+
+org:
+name:Iwafag Ehuha
+genotype:~
+(WXQMiMFMMMX[*][N][N, 3:3.101][@][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074, fo:0.04, s:0], , LRcMwwX[S]LCqFFFFFcMwwX[S]LCFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04])~
+info:~
+Crossing over of 'Esufik Etuha' (38.81%) and 'Urutam Etuha' (61.19%)~
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:13
+numconnections:10
+num:88592
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.000127211744093094
+distance:0.636058720465469
+vertvel:5.47785144330765e-08
+vertpos:-0.0166639111016448
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177509
+
+org:
+name:Udegum Ahetuha
+genotype:~
+WXQMiwX(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:0.42, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8]X)~
+info:0.37% mutation of 'Agegak Ateuha'
+energy0:1.0
+numparts:8
+numjoints:7
+numneurons:15
+numconnections:15
+num:88593
+gnum:488
+instances:1
+lifespan:5000.0
+velocity:0.00985483549230114
+distance:49.2741774615057
+vertvel:0.00129587006265934
+vertpos:0.0920021763317875
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177511
+
+org:
+name:Ydanuf Etuhe
+genotype:~
+WXQMiwW(, rCqWWX[@, 3:4.008]LLLLLLLLLLFLLLLFFFMFMMMX[*][N][N, 3:3.101][@][|G:-120.278, 0:13.67, 3:-26.941, 3:-2.441, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, in:0, in:0.8])~
+info:7.20% mutation of 'Isufak Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:13
+numconnections:10
+num:88594
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.0220678522074747
+distance:110.339261037374
+vertvel:0.000766502101011947
+vertpos:0.111418596466864
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177513
+
+org:
+name:Izanap Ohyhe
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.76][G][N, 5:5.891, 3:-9.324, 0:-0.197]LLLLLLLLLMwwwwX[S]LCqFLRcMwwX[S]LCqFFFFFWX[N][*][|G:106.486, si:999, in:0, in:0.8])~
+info:~
+Crossing over of 'Aliwif Ateuha' (92.07%) and 'Atiwag Otueha' (7.93%)~
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:10
+numconnections:6
+num:88595
+gnum:488
+instances:1
+lifespan:5000.0
+velocity:0.00446415093085915
+distance:22.3207546542957
+vertvel:0.000237026869962065
+vertpos:0.0297112300803398
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177515
+
+org:
+name:Yfotat Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:-3.348][@, -4:6.725,p:1][|G:-120.465, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-6:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8],)~
+info:0.36% mutation of 'Osiwat Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88596
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0146409123468322
+distance:73.2045617341608
+vertvel:0.000681754261033712
+vertpos:0.0512874199796639
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177517
+
+org:
+name:Ytanaz Ohehe
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.76][G][N, 5:5.891, 3:-9.324, 0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N, -3:9.086, in:0.8, si:2][N][@, -4:9.705]wFFFFFWX[N, -6:0.756][*][|G:106.486, si:999, in:0, in:0.8])~
+info:~
+Crossing over of 'Yrufuf Ateuha' (98.98%) and 'Atiwag Otueha' (1.02%)~
+energy0:1.0
+numparts:5
+numjoints:4
+numneurons:12
+numconnections:9
+num:88597
+gnum:490
+instances:1
+lifespan:5000.0
+velocity:0.0014489097403138
+distance:7.244548701569
+vertvel:0.000474209287968359
+vertpos:0.0353564958824948
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177519
+
+org:
+name:Ikiwus Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:10.887][|G:-118.111, 0:13.67, 3:-26.657, 3:0.42, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:2.24% mutation of 'Ihiwif Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88601
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.0384180131211484
+distance:192.090065605742
+vertvel:0.000205758265523681
+vertpos:0.0556557052520908
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177527
+
+org:
+name:Ohyuz Sehe
+genotype:IXQMiFX[*][|G:100.134, si:999, in:0, in:0.8]
+info:~
+Crossing over of 'Iwafag Ehuha' (98.18%) and 'Imiwin Atuha' (1.82%)~
+energy0:1.0
+numparts:3
+numjoints:2
+numneurons:4
+numconnections:2
+num:88602
+gnum:486
+instances:1
+lifespan:5000.0
+velocity:3.53916635330745e-05
+distance:0.176958317665373
+vertvel:3.25826996920367e-09
+vertpos:-0.0133331895007026
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177529
+
+org:
+name:Afiwum Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.623][G][N, 5:2.706, 3:-9.324,si:2,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:6.415][|G:-124.073, 0:13.67, 4:-27.127, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:108.7, si:999, -9:10.694, in:0, in:0.8])~
+info:2.44% mutation of 'Uriwir Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88399
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0390887438673997
+distance:195.443719336999
+vertvel:0.000169468622827063
+vertpos:0.0798358438264355
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177122
+
+org:
+name:Eniwal Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.38,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8][N, 3:0.308][@, -4:6.421][|G:-121.035, 0:13.989, 3:-27.875, 3:-1.498, 0:7.074,fo:0.04,-6:-0.235], , LRcMwwX[S]LCqFFFFFWWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:2.55% mutation of 'Yiwul Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88608
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0390200562391455
+distance:195.100281195728
+vertvel:0.000136937141354811
+vertpos:0.0348667160590645
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177541
+
+org:
+name:Ytiwul Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:17.453, 3:-26.657, 3:0.42, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:2.24% mutation of 'Ihiwif Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88611
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.0224104102413134
+distance:112.052051206567
+vertvel:0.000667666484613349
+vertpos:0.0742679799015268
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177547
+
+org:
+name:Imiwag Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:2.244][G][N, 5:5.646, 3:-10.591,si:2,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:12.992,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:-1.437,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:2.06% mutation of 'Ywiwah Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88612
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.028863093573664
+distance:144.31546786832
+vertvel:0.000192406523829318
+vertpos:0.0605998574660227
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177549
+
+org:
+name:Anutuk Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.376][@, -4:9.986][|G:-123.552, 0:13.67, 3:-28.81, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:109.109, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:2.79% mutation of 'Ocutuz Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88615
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0380736286352231
+distance:190.368143176116
+vertvel:0.000135302298205051
+vertpos:0.0585428218874522
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177555
+
+org:
+name:Oliwip Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:8.935][|G:-118.111, 0:14.083, 3:-26.657, 3:-1.867, 0:7.074,fo:0.04], , LRcMwwwwX[S]FFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:~
+Crossing over of 'Osiwis Ateuha' (52.79%) and 'Ekiwig Ateuha' (47.21%)~
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88616
+gnum:489
+instances:1
+lifespan:5000.0
+velocity:0.0317861734182214
+distance:158.930867091107
+vertvel:0.000192327241293905
+vertpos:0.0444450741597457
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177557
+
+org:
+name:Ytuzar Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-9.361,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2,s:0][N, 3:0.308][@, -4:7.781][|G:-121.035, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,-6:-0.235], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0])~
+info:1.53% mutation of 'Ucuzug Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88617
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0239967704035513
+distance:119.983852017757
+vertvel:0.000946680485895027
+vertpos:0.0817432802628971
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177559
+
+org:
+name:Ariwam Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:-3.274][@, -4:6.725,p:1][|G:-121.421, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-6:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:2.15% mutation of 'Iriwu Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88618
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0379083916391816
+distance:189.541958195908
+vertvel:0.000230252798170725
+vertpos:0.0711930613266188
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177561
+
+org:
+name:Aryaw Syhe
+genotype:~
+WXLLLLqFFFFFWX[N][*][|G:104.521, si:999, in:0, in:0.8]~
+info:~
+Crossing over of 'Onutar Etuha' (94.29%) and 'Yrufuf Ateuha' (5.71%)~
+energy0:1.0
+numparts:3
+numjoints:2
+numneurons:5
+numconnections:2
+num:88619
+gnum:490
+instances:1
+lifespan:5000.0
+velocity:0.000123127052985256
+distance:0.615635264926282
+vertvel:1.14370441278919e-06
+vertpos:-0.013305116021183
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177563
+
+org:
+name:Yzafuh Ehueha
+genotype:~
+(WLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8, si:2][N, 3:2.986][@][|G:-120.864, 0:14.872, 3:-25.63, 3:-2.338, 0:7.151, fo:0.04], , LRcMwwX[S]LCqFFFFFWX[@, 4:4.008][N, 5:7.724, si:2]LLLLLLLLLLFLLLLFFFMFMMMqWWX[@][G][N, si:2, 0:-0.197]LLLLLLLLLLFLLFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04])~
+info:~
+Crossing over of 'Imiwag Otueha' (78.70%) and 'Ewafis Uteuha' (21.30%)~
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:17
+numconnections:13
+num:88620
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0110144266430171
+distance:55.0721332150855
+vertvel:0.000209918299955797
+vertpos:0.0121120354824492
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177565
+
+org:
+name:Ocutuz Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.376][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:109.109, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:2.79% mutation of 'Acutiz Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88247
+gnum:482
+instances:3
+lifespan:5000.0
+velocity:0.0394892441719865
+distance:197.446220859933
+vertvel:0.000183402573794811
+vertpos:0.05222922273252
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176815
+
+org:
+name:Itanas Etuhe
+genotype:~
+WXQMiw(, rCqiWWX[@][G][N, 4:4.866,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:2][@, -3:9.843][|G:-124.073, 0:13.67, 3:-24.757, 3:-0.007, 0:6.081,fo:0.04,-5:1.918,si:2,s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, in:0, in:0.8])~
+info:4.56% mutation of 'Iliwad Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:11
+num:88623
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.0305412198035601
+distance:152.7060990178
+vertvel:0.000351568480644684
+vertpos:0.0673944277864584
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177571
+
+org:
+name:Asafak Uteuha
+genotype:~
+(WLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8, si:2][N, 3:2.986][@][|G:-120.864, 0:14.872, 3:-25.63, 3:-2.338, 0:7.151, fo:0.04], , LRcMwwX[S]LCqFFFFFWX[@, 4:4.008][N, 5:7.724, si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8][N, 3:3.101][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:8.594, fo:0.04, s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0.8, fo:0.04])~
+info:1.57% mutation of 'Ewafis Uteuha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:22
+numconnections:20
+num:88624
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0152273825748656
+distance:76.1369128743282
+vertvel:0.00268094816404664
+vertpos:0.327700103495846
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177573
+
+org:
+name:Imiwuk Atuha
+genotype:~
+IXQMiww(, rCqWWX[@, 4:0.255][G][N, 4:9.71, 2:-11.79,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[N,-2:7.783,in:0.8,si:2][N, 3:3.4,in:0.8][@, -3:11.064][|G:-125.965, 0:13.67, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-5:3.731], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.134, si:999, -7:9.833, in:0, in:0.8])~
+info:2.89% mutation of 'Imiwin Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:16
+num:88214
+gnum:478
+instances:2
+lifespan:5000.0
+velocity:0.0388285395186984
+distance:194.142697593492
+vertvel:0.000152662638947883
+vertpos:0.0402136540053538
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176749
+
+org:
+name:Ociwut Atuha
+genotype:~
+IXQMiww(, rCqWWX[@, 4:0.255][G][N, 4:9.71, 2:-9.729,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[N,-2:2.825,in:0.8,si:2][N, 3:3.4,in:0.8][@, -3:10.89][|G:-124.588, 0:13.67, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-5:3.731], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.134, si:999, -7:9.833, in:0, in:0.8])~
+info:2.17% mutation of 'Omiwah Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:16
+num:88628
+gnum:478
+instances:1
+lifespan:5000.0
+velocity:0.0386802293278282
+distance:193.401146639141
+vertvel:0.00017557487823775
+vertpos:0.0414628971914407
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177581
+
+org:
+name:Onutuc Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.376][@, -4:9.986][|G:-123.552, 0:16.271, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:109.109, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:2.39% mutation of 'Ocutuz Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88629
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0324305252048661
+distance:162.152626024331
+vertvel:0.000312969132120001
+vertpos:0.0539553445280915
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177583
+
+org:
+name:Yutid Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:1.365][@, -4:9.986][|G:-124.07, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:109.109, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:3.20% mutation of 'Imutad Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88634
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.0382099495322563
+distance:191.049747661281
+vertvel:0.000179432243886767
+vertpos:0.047398283990796
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177593
+
+org:
+name:Ezuduf Otuhe
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.76][G][N, 5:5.891, 3:-9.324,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 0:5.959,fo:0.04,-6:1.263,fo:0.04,0:1.104,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:0.756][*])~
+info:15.46% mutation of 'Atiwag Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:13
+numconnections:13
+num:88636
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.000125593472110285
+distance:0.627967360551426
+vertvel:2.09843755530195e-07
+vertpos:0.00570733045608998
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177597
+
+org:
+name:Eutar Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.376][@, -4:9.753][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:109.109, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:1.99% mutation of 'Ocutuz Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88637
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0382574761291479
+distance:191.287380645739
+vertvel:0.000176984119427436
+vertpos:0.054090519495363
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177599
+
+org:
+name:Aciwus Etuha
+genotype:~
+WXQMiw(, rCqWWX[@,p:1][G][N, 4:3.037,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:2][@, -3:11.225][|G:-120.977, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081,fo:0.04,-5:0.852,si:2,s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:8.435, in:0, in:0.8])~
+info:2.45% mutation of 'Ilanil Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:12
+num:88638
+gnum:488
+instances:1
+lifespan:5000.0
+velocity:0.0340233632759808
+distance:170.116816379904
+vertvel:0.000225506110886906
+vertpos:0.0620036895277054
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177601
+
+org:
+name:Iliwas Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:4.926, 3:-9.98,si:2,si:2]LLLLLLLLLLLLLFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:-1.385, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:~
+Crossing over of 'Aliwif Ateuha' (97.37%) and 'Osiwis Ateuha' (2.63%)~
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88639
+gnum:489
+instances:1
+lifespan:5000.0
+velocity:0.0374151338854554
+distance:187.075669427277
+vertvel:0.000154335459196324
+vertpos:0.044676250812423
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177603
+
+org:
+name:Ydiwuf Otueha
+genotype:~
+WXQMiwF(, rCqWWX[@, 5:2.244][G][N, 5:5.646, 3:-10.591,si:2,0:-0.067]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:12.992,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:-1.704,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:0.34% mutation of 'Eliwul Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88641
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0317366304233451
+distance:158.683152116726
+vertvel:0.000180674731135514
+vertpos:0.0592042758976659
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177607
+
+org:
+name:Osiwip Atuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:5.891,si:2,0:-0.197]LLLLLLLQMLLFFFMFMMMX[*][N,-3:9.086,si:2][@, -3:9.705][|G:-124.073, 0:13.67, 3:-26.87, 0:5.959,fo:0.04,fo:0.04,0:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:106.486, si:999, -7:10.694, in:0, in:0.8])~
+info:1.17% mutation of 'Ifiwu Oteuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88622
+gnum:480
+instances:1
+lifespan:5000.0
+velocity:0.0390078011837528
+distance:195.039005918764
+vertvel:0.000222917944107518
+vertpos:0.0913763086953729
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177569
+
+org:
+name:Ikaniz Etuhe
+genotype:~
+WXQMiw(, rCqiWWX[@][G][N, 4:4.866,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:2][@, -3:9.843][|G:-124.073, 0:13.67, 3:-24.757, 3:-0.007, 0:6.081,fo:0.04,-5:1.918,si:2,s:0,-2:1], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, in:0, in:0.8])~
+info:2.17% mutation of 'Itanas Etuhe'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:12
+num:88643
+gnum:488
+instances:1
+lifespan:5000.0
+velocity:0.0320960434026788
+distance:160.480217013394
+vertvel:0.000584704234823725
+vertpos:0.081542408756899
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177611
+
+org:
+name:Izutir Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:2.661][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:1.99% mutation of 'Ywutim Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88268
+gnum:481
+instances:2
+lifespan:5000.0
+velocity:0.0396263540192944
+distance:198.131770096472
+vertvel:0.000159215311735453
+vertpos:0.0439421683759531
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176858
+
+org:
+name:Eafik Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724, si:2]LLLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8][N, 3:3.413][@, -4:6.421][|G:-121.035, 0:14.988, 3:-27.875, 3:-1.498, 0:10.249, fo:0.04], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04])~
+info:2.39% mutation of 'Eafaf Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88646
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.0326802539037238
+distance:163.401269518619
+vertvel:0.000374110455442321
+vertpos:0.0637226779573132
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177617
+
+org:
+name:Iciwif Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:2.244][G][N, 5:5.646, 3:-10.591,si:2,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:12.878,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:1.72% mutation of 'Iziwuk Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88648
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0387432817655905
+distance:193.716408827953
+vertvel:0.000146389784696464
+vertpos:0.107390304328218
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177621
+
+org:
+name:Eliwuz Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:16.513][|G:-118.111, 0:13.67, 3:-26.657, 3:-1.498, 0:7.038,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:2.22% mutation of 'Oliwuc Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88649
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.0397415811846501
+distance:198.707905923251
+vertvel:0.000135644353067538
+vertpos:0.0589295123887319
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177623
+
+org:
+name:Ypiwaf Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:-3.348][@, -4:6.725,p:1][|G:-121.421, 0:13.989, 3:-26.352, 3:-1.498, 0:8.331,fo:0.04,-6:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:1.79% mutation of 'Iriwu Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88652
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0356826320933877
+distance:178.413160466939
+vertvel:0.000265940537044251
+vertpos:0.0648560339362831
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177629
+
+org:
+name:Utiwif Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:10.954, 3:-26.657, 3:0.42, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:2.24% mutation of 'Ihiwif Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88653
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.0306768436242403
+distance:153.384218121202
+vertvel:0.000156824235588551
+vertpos:0.0382591752530092
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177631
+
+org:
+name:Omaful Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724, si:2]LLLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8][N, 3:3.413][@, -4:6.421][|G:-121.035, 0:13.989, 3:-27.875, 3:-1.498, 0:7.074, fo:0.04], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04])~
+info:2.00% mutation of 'Omafuh Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88419
+gnum:483
+instances:2
+lifespan:5000.0
+velocity:0.0383372472438149
+distance:191.686236219075
+vertvel:0.000154513848298787
+vertpos:0.0508147986299831
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177162
+
+org:
+name:Oriwis Uteuha
+genotype:~
+(WXQMiX[*][N, si:2,1:1][N][@][|G:-124.073, 0:13.67, 3:-25.151, 0:5.959, fo:0.04, fo:0.04, 0:1], , LRcMwwX[S]LFMMMX[*][N, -3:10.27, in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:-1.385, 0:7.074, fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:1.35% mutation of 'Epiwut Uteuha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:20
+numconnections:19
+num:88655
+gnum:489
+instances:1
+lifespan:5000.0
+velocity:0.013990687430774
+distance:69.9534371538701
+vertvel:0.0007435054796915
+vertpos:0.0969586495444955
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177635
+
+org:
+name:Ygiwac Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-9.361,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:0.308][@, -4:7.781][|G:-121.035, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,-6:-0.235], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:1.85% mutation of 'Efiwuc Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88524
+gnum:481
+instances:2
+lifespan:5000.0
+velocity:0.0387502071987424
+distance:193.751035993712
+vertvel:0.000211179447581644
+vertpos:0.0687848109203507
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177373
+
+org:
+name:Imiwud Atuha
+genotype:~
+IXQMiww(, rCqWWX[@, 4:-0.87][G][N, 4:9.71, 2:-11.79,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[N,-2:7.783,in:0.8,si:2][N, 3:3.4,in:0.8][@, -3:11.064][|G:-125.965, 0:13.67, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-5:3.731], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.134, si:999, -7:9.833, in:0, in:0.8])~
+info:1.81% mutation of 'Imiwuk Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:16
+num:88338
+gnum:479
+instances:3
+lifespan:5000.0
+velocity:0.038992079284814
+distance:194.96039642407
+vertvel:0.000193500560571888
+vertpos:0.0670423289457476
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176999
+
+org:
+name:Etiwaf Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:5.168][@, -4:14.233][|G:-118.111, 0:13.67, 3:-27.828, 3:-1.498, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.921, si:999, -8:10.043, in:0, in:0.8])~
+info:2.68% mutation of 'Osiwis Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:14
+num:88559
+gnum:489
+instances:2
+lifespan:5000.0
+velocity:0.0379953008691264
+distance:189.976504345632
+vertvel:0.000141877021814539
+vertpos:0.0292562598160662
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177443
+
+org:
+name:Esufah Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:5.654,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N][N, 3:3.101][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8])~
+info:2.12% mutation of 'Esufik Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88657
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.039557367555023
+distance:197.786837775115
+vertvel:0.000198860011147177
+vertpos:0.0639673754744544
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177639
+
+org:
+name:Ymyan Hyhe
+genotype:~
+WXQrCqWWX[S]LCqFFFFFWX[N][*][|G:106.486, si:999, in:0, in:0.8]~
+info:~
+Crossing over of 'Esufah Etuha' (92.50%) and 'Ykiwat Otueha' (7.50%)~
+energy0:1.0
+numparts:4
+numjoints:3
+numneurons:6
+numconnections:2
+num:88659
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:6.39718045786005e-05
+distance:0.319859022893003
+vertvel:4.42301383743939e-08
+vertpos:-0.015003907358776
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177643
+
+org:
+name:Uufil Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N][N, 3:3.101][@, -4:9.986][|G:-123.619, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8])~
+info:1.69% mutation of 'Ysufid Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88660
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.0382605481523094
+distance:191.302740761547
+vertvel:0.000174086237179283
+vertpos:0.0466717149605783
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177645
+
+org:
+name:Isiwug Atuha
+genotype:~
+IXQMiww(, rCqWWX[@, 4:0.255][G][N, 4:9.71, 2:-11.79,si:4.36519]LLLLLLLLLLFLLLLFFFMFMMMX[N,-2:7.783,in:0.8,si:2][N, 3:3.4,in:0.8][@, -3:11.064][|G:-125.965, 0:13.67, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-5:3.731], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.134, si:999, -7:9.833, in:0, in:0.8])~
+info:2.53% mutation of 'Imiwuk Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:16
+num:88664
+gnum:479
+instances:1
+lifespan:5000.0
+velocity:0.0392459800444842
+distance:196.229900222421
+vertvel:0.000173043446067867
+vertpos:0.0803031489353963
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177653
+
+org:
+name:Ydiwac Atuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:5.891,si:2,0:-0.197]LLLLLLLQMLLFFFMFMMMX[*][N,-3:9.086,si:2][@, -3:10.334][|G:-124.073, 0:13.67, 3:-26.87, 0:5.959,fo:0.04,fo:0.04,0:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:106.486, si:999, -7:10.694, in:0, in:0.8])~
+info:2.56% mutation of 'Osiwip Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88665
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0390820885273838
+distance:195.410442636919
+vertvel:0.000103710483548986
+vertpos:0.0292879970843697
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177655
+
+org:
+name:Ykiwaz Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:0.42, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:105.691, si:999, -8:10.043, in:0, in:0.8])~
+info:2.61% mutation of 'Ihiwif Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88666
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.0382082991104818
+distance:191.041495552409
+vertvel:0.00019443415423383
+vertpos:0.0482453247195128
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177657
+
+org:
+name:Olafid Ekuuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:3.306][N, 5:7.724, si:2]LLLFFLLLLFFFMFMMMX[*][N, in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:0.42, 0:7.074, fo:0.04], , LFFMFMMMX[*][N, in:0.8][N, 3:2.376][@, -4:9.986][|G:-121.864, 0:13.67, 3:-27.629, 3:-0.309, 0:7.074, fo:0.04, s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04])~
+info:~
+Crossing over of 'Idutu Etuha' (65.11%) and 'Ihiwif Ateuha' (34.89%)~
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:21
+numconnections:21
+num:88667
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.00273588741503642
+distance:13.6794370751821
+vertvel:0.000417907954095383
+vertpos:0.0446554064839037
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177659
+
+org:
+name:Ohedip Otueho
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.76][G][N, 5:5.891, 3:-9.324,0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:1.263,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:0.756][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8,-2:1])~
+info:1.74% mutation of 'Osiwis Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:18
+num:88669
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0394387418996694
+distance:197.193709498347
+vertvel:0.000182297264696749
+vertpos:0.0617249397493354
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177663
+
+org:
+name:Ufiwuw Etuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:3.037,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:2,4:1][@, -3:11.225,p:1][|G:-120.977, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081,fo:0.04,-5:0.852,si:2,s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:8.368, in:0, in:0.8])~
+info:1.64% mutation of 'Yliwuh Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88670
+gnum:489
+instances:1
+lifespan:5000.0
+velocity:0.0388439559998161
+distance:194.219779999081
+vertvel:0.000208002649026147
+vertpos:0.0603246097857816
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177665
+
+org:
+name:Oriwul Oteuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:1.727][G][N, 5:5.891, 3:-6.822,si:2,0:-0.197]LLLLLLLQMLLFFFMFMMMX[*][N,-3:9.086,si:2][N][@, -4:9.301][|G:-122.475, 0:13.67, 3:-25.151, 0:5.959,fo:0.04,fo:0.04,0:1], , LRcMwwX[S]LCCqFFFFFWX[*][|G:108.404, -8:10.694, in:0, in:0.8])~
+info:4.02% mutation of 'Iiwit Oteuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88671
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.0372700759801245
+distance:186.350379900622
+vertvel:0.000133733465798318
+vertpos:0.036279356026516
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177667
+
+org:
+name:Etiwac Etueha
+genotype:~
+WXQMiwwl(, rCqWWX[@, 5:4.008][G][N, 5:9.237,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:0.308][@, -4:6.421][|G:-121.035, 0:15.95, 4:-26.352, 4:-1.498, 0:7.368,fo:0.04,-6:-0.235], , LRcMwwX[S]LCqFFFFFWX[S][*][|G:100.486, si:999, -9:10.211, in:0, in:0.8])~
+info:1.85% mutation of 'Esiwah Etueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:15
+num:88672
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.036918593612005
+distance:184.592968060025
+vertvel:0.000290152377138449
+vertpos:0.052579989268736
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177669
+
+org:
+name:Uutag Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.376][@, -4:9.986][|G:-123.552, 0:13.67, 3:-30.671, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:109.109, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:2.79% mutation of 'Ocutuz Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88673
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0287895433142162
+distance:143.947716571081
+vertvel:0.000183275515538681
+vertpos:0.0559569646217027
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177671
+
+org:
+name:Omanim Atuhahe
+genotype:~
+IXQMiww(, rCqWWX[@, 4:0.255][G][N, 4:9.71, 2:-11.79, si:2]LLLLLLLLLLFLLLLFFFMFMMMX[N, -2:7.783, in:0.8, si:2][N, 3:3.4, in:0.8]LLFLLLLFFFMFMMMX[*][N, in:0.8][N, 3:3.101][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074, fo:0.04, s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04]MwwX[S]LCqFFFFFWX[*][|G:100.134, si:999, in:0, in:0.8])~
+info:~
+Crossing over of 'Imiwin Atuha' (48.70%) and 'Izutir Etuha' (51.30%)~
+energy0:1.0
+numparts:9
+numjoints:8
+numneurons:22
+numconnections:18
+num:88674
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.00630272301578796
+distance:31.5136150789398
+vertvel:0.000860031068531679
+vertpos:0.0745496812179944
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177673
+
+org:
+name:Ysiwis Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:2.244][G][N, 5:5.646, 3:-10.591,si:2,0:-0.067]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:12.992,in:0.8,si:2][N][@, -4:7.321][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:1.72% mutation of 'Ewiwal Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88675
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0395641800896184
+distance:197.820900448092
+vertvel:0.000110092946921001
+vertpos:0.0328672276648397
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177675
+
+org:
+name:Ekutul Etueha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:2.97][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 4:3.101][@, -4:11.966][|G:-123.552, 0:13.67, 4:-26.941, 4:-0.309, 0:7.074,fo:0.04,s:0,0:1], , LRcMwwX[*][S]LCqFFFFFWX[*][|G:102.817, si:999, -9:9.451, in:0, in:0.8,fo:0.04])~
+info:1.57% mutation of 'Ahutum Etueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:14
+num:88603
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.0372871466476857
+distance:186.435733238429
+vertvel:0.00021898153311894
+vertpos:0.0576262966125034
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177531
+
+org:
+name:Utiwiz Ateuha
+genotype:~
+WXQMiw( rCqWWX[@, 5:10.518][G][N, 5:7.137, 3:-9.98,si:2,si:0.0669914]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:8.935][|G:-118.111, 0:13.67, 3:-27.247, 3:-1.867, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:106.051, si:999, -8:10.043, in:0, in:0.8])~
+info:2.54% mutation of 'Iwiwum Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88676
+gnum:488
+instances:1
+lifespan:5000.0
+velocity:0.0285497991770557
+distance:142.748995885278
+vertvel:0.00101053861205957
+vertpos:0.0981586447160345
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177677
+
+org:
+name:Oziwaf Atuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 4:11.431, 3:-9.361,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2,0:1][N, 2:0.308][|G:-121.035, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,-5:-0.235], , LRcMwwX[S]LCqFFFFFWX[*][|G:102.435, si:999, -7:10.211, in:0, in:0.8])~
+info:2.30% mutation of 'Iniwih Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:16
+num:88677
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.0285309853083086
+distance:142.654926541543
+vertvel:0.000469862968055491
+vertpos:0.0614682064756128
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177679
+
+org:
+name:Emiwuz Atueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:-1.498, 0:7.038,fo:0.04],X[S]LCqwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:~
+Crossing over of 'Afiwum Otueha' (97.38%) and 'Oliwuc Ateuha' (2.62%)~
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:16
+numconnections:15
+num:88678
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.00208224007997928
+distance:10.4112003998964
+vertvel:0.000438347374310709
+vertpos:0.0204609236477096
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177681
+
+org:
+name:Ylyuz Sehe
+genotype:IXQMiFX[*][|G:100.877, si:999, in:0, in:0.8]
+info:15.91% mutation of 'Ohyuz Sehe'
+energy0:1.0
+numparts:3
+numjoints:2
+numneurons:4
+numconnections:2
+num:88679
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:3.53916635168117e-05
+distance:0.176958317584059
+vertvel:3.25826964261873e-09
+vertpos:-0.0133331895007297
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177683
+
+org:
+name:Afiwil Ekuuhaha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:2.02,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:2][@, -3:9.843][|G:-124.073, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081,fo:0.04,-5:1.918,si:2,s:0], , LRcMwwX[S]LCCqFLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8][N, 3:3.413][@, -4:6.421][|G:-121.035, 0:13.989, 3:-27.875, 3:-1.498, 0:7.074, fo:0.04], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04][*][|G:105.379, si:999, -7:10.694, in:0, in:0.8])~
+info:~
+Crossing over of 'Atiwap Etuha' (53.69%) and 'Omaful Etuha' (46.31%)~
+energy0:1.0
+numparts:8
+numjoints:7
+numneurons:26
+numconnections:23
+num:88680
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.00481512985127958
+distance:24.0756492563979
+vertvel:0.00122810735270018
+vertpos:0.16767022748007
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177685
+
+org:
+name:Ywutat Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:3.334,p:1][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.959][@, -4:9.986][|G:-124.249, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:1.96% mutation of 'Ezutig Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88681
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.0339141790554029
+distance:169.570895277015
+vertvel:0.000193755399123805
+vertpos:0.0557791264937011
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177687
+
+org:
+name:Ecyaf Syhe
+genotype:~
+WXQMiLLLFLLLLFCqFFFFFWX[S][*][|G:100.486, si:999, in:0, in:0.8]~
+info:~
+Crossing over of 'Esiwah Etueha' (88.00%) and 'Iciwif Otueha' (12.00%)~
+energy0:1.0
+numparts:3
+numjoints:2
+numneurons:5
+numconnections:2
+num:88682
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:9.02867577230419e-05
+distance:0.451433788615209
+vertvel:1.6658087259613e-08
+vertpos:-0.0133417266104499
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177689
+
+org:
+name:Imiwin Atuha
+genotype:~
+IXQMiww(, rCqWWX[@, 4:0.255][G][N, 4:9.71, 2:-11.79,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[N,-2:7.783,in:0.8,si:2][N, 3:3.4,in:0.8][@, -3:11.064][|G:-124.588, 0:13.67, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-5:3.731], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.134, si:999, -7:9.833, in:0, in:0.8])~
+info:2.17% mutation of 'Yniwat Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:16
+num:88105
+gnum:477
+instances:2
+lifespan:5000.0
+velocity:0.0392157983665746
+distance:196.078991832873
+vertvel:0.000171536183972825
+vertpos:0.057862760740551
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176531
+
+org:
+name:Itiwin Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-13.106,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:0.308][@, -4:6.421][|G:-121.035, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-6:-0.235], , XLRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:2.50% mutation of 'Etiwiw Ateuha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:15
+numconnections:16
+num:88157
+gnum:480
+instances:2
+lifespan:5000.0
+velocity:0.0150110212969912
+distance:75.0551064849562
+vertvel:0.000274111963942513
+vertpos:0.0623118778923674
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176635
+
+org:
+name:Yhiwig Eteha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,in:0.8][N, 2:5.168][@, -4:14.233], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.921, si:999, -7:10.043, in:0, in:0.8])~
+info:22.99% mutation of 'Etiwaf Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:12
+numconnections:7
+num:88683
+gnum:490
+instances:1
+lifespan:5000.0
+velocity:0.00381801196187512
+distance:19.0900598093756
+vertvel:0.000504029678927373
+vertpos:0.0597679865509931
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177691
+
+org:
+name:Ysiwut Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:5.285][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:-3.348][@, -4:7.886,p:1][|G:-121.421, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-6:1]X, , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:1.79% mutation of 'Oriwar Ateuha'
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:15
+numconnections:16
+num:88684
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.00710138998886532
+distance:35.5069499443266
+vertvel:0.00109498256936928
+vertpos:0.12730392511131
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177693
+
+org:
+name:Ewiwis Atauha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-9.361,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2,0:1][N, 3:0.308][@, -4:6.421][|G:-121.035, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,-6:-0.235], , LRcMwwX[S]LCqFFFFFWX[*][|G:102.435, si:999, -8:9.317, in:0, in:0.8])~
+info:2.19% mutation of 'Ufiwud Atauha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:17
+num:88685
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0387522629340696
+distance:193.761314670348
+vertvel:0.000208917756408153
+vertpos:0.0604437398508726
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177695
+
+org:
+name:Ugiwaw Atuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:5.891,si:2,0:-0.197]LLLLLLLQMLLFFFMFMMMX[*][N,-3:9.086,si:2][@, -3:9.705][|G:-124.073, 0:13.67, 3:-26.87, 0:5.959,fo:0.04,fo:0.04,0:-0.052], , LRcMwwX[S]LCqFFFFFWX[*][|G:106.486, si:999, -7:10.694, in:0, in:0.8])~
+info:2.56% mutation of 'Osiwip Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88686
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.036849527498813
+distance:184.247637494065
+vertvel:0.000315640453338508
+vertpos:0.0565441246572335
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177697
+
+org:
+name:Awiwug Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-7.775,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:14.013][|G:-118.111, 0:13.67, 3:-26.657, 3:-1.498, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:2.22% mutation of 'Akiwug Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88687
+gnum:487
+instances:1
+lifespan:5000.0
+velocity:0.0389899337235997
+distance:194.949668617998
+vertvel:0.000121748094908217
+vertpos:0.0403904289518869
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177699
+
+org:
+name:Onutuf Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:2.376][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:2.151, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:109.109, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:2.39% mutation of 'Ocutuz Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88688
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.035308080780915
+distance:176.540403904575
+vertvel:0.000271351696427887
+vertpos:0.0503170403608597
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177701
+
+org:
+name:Ipufu Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:5.168][@, -4:14.233][|G:-118.111, 0:13.67, 3:-27.828, 3:-1.498, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0.8])~
+info:2.30% mutation of 'Osiwis Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:14
+num:88599
+gnum:489
+instances:2
+lifespan:5000.0
+velocity:0.0357490370069442
+distance:178.745185034721
+vertvel:0.000168778663212371
+vertpos:0.0587915787470949
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177523
+
+org:
+name:Idiwap Atuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 4:11.431, 3:-9.361,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2,0:1][N, 2:0.308][|G:-121.035, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074,-5:-0.235], , LRcqMwwX[S]LCqFFFFFWX[*][|G:102.435, si:999, -7:10.211, in:0, in:0.8])~
+info:2.67% mutation of 'Oziwaf Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:16
+num:88689
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.037387621783334
+distance:186.93810891667
+vertvel:0.000382327968775385
+vertpos:0.071158161290924
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177703
+
+org:
+name:Icya Hyhe
+genotype:~
+WXQMwwwwXLCqFFFFLRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, in:0, in:0.8]~
+info:~
+Crossing over of 'Yrufuf Ateuha' (84.52%) and 'Esufah Etuha' (15.48%)~
+energy0:1.0
+numparts:5
+numjoints:4
+numneurons:5
+numconnections:2
+num:88690
+gnum:490
+instances:1
+lifespan:5000.0
+velocity:0.000217151428071044
+distance:1.08575714035522
+vertvel:1.20185420787842e-07
+vertpos:-0.0159910255452225
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177705
+
+org:
+name:Uriwa Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:999,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:-1.498, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:1.11% mutation of 'Oliwut Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88668
+gnum:486
+instances:2
+lifespan:5000.0
+velocity:0.0397491142161871
+distance:198.745571080936
+vertvel:0.000167963041141006
+vertpos:0.0523189083708866
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177661
+
+org:
+name:Etiwim Etuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:2.02,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:2][@, -3:9.843][|G:-124.073, 0:13.67, 3:-20.789, 3:-1.498, 0:6.081,fo:0.04,-5:1.918,si:2,s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:10.694, in:0, in:0.8])~
+info:2.93% mutation of 'Atiwap Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:12
+num:88691
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0348625649341006
+distance:174.312824670503
+vertvel:0.000245818293352569
+vertpos:0.045367133099251
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177707
+
+org:
+name:Isiwic Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,s:0][N, 3:0.308][@, -4:6.421][|G:-121.035, 0:13.989, 3:-27.875, 3:-1.498, 0:7.074,fo:0.04,-6:-0.235], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:-0.480322, -8:10.211, in:0, in:0.8])~
+info:3.24% mutation of 'Owiwar Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88692
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0107893746317569
+distance:53.9468731587846
+vertvel:0.000984569323489757
+vertpos:0.111071618249031
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177709
+
+org:
+name:Igiwad Otueha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:0.623][G][N, 5:2.706, 3:-9.324,si:2,0:-4.669]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:9.086,in:0.8,si:2][N][@, -4:6.415][|G:-124.073, 0:13.67, 4:-27.127, 0:5.959,fo:0.04,-6:0.811,fo:0.04,0:1,si:2], , LRcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:108.7, si:999, -9:10.694, in:0, in:0.8])~
+info:2.08% mutation of 'Afiwum Otueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:16
+numconnections:17
+num:88694
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0269499379858917
+distance:134.749689929459
+vertvel:0.000467189497818398
+vertpos:0.0702550386684312
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177713
+
+org:
+name:Aniwa Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.513,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8,si:2][N, 3:-3.348][@, -4:6.725,p:1][|G:-121.421, 0:13.989, 3:-26.352, 3:-0.107, 0:7.074,fo:0.04,-6:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:2.15% mutation of 'Iriwu Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88695
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0370725951597743
+distance:185.362975798871
+vertvel:0.000210660575884043
+vertpos:0.0648955091687994
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177715
+
+org:
+name:Owafar Ehueha
+genotype:~
+(WLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8, si:2][N, 3:1.817][@][|G:-120.864, 0:14.872, 3:-25.63, 3:-2.338, 0:7.151, fo:0.04], , LRcMwwX[S]LCqFFFFFWX[@, 4:4.008][N, 5:7.724, si:2]LLLLLLLLLLFLLLLFFFMFMMMqWWX[@][G][N, si:2, 0:-0.197]LLLLLLLLLLFLLFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04])~
+info:1.68% mutation of 'Yzafuh Ehueha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:17
+numconnections:13
+num:88696
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0122272814801758
+distance:61.1364074008792
+vertvel:0.00112533179212772
+vertpos:0.0661855798094206
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177717
+
+org:
+name:Ysafun Etoha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*]LLLLLFFLLLLFFFMFMMMX[*][N, -3:10.27, in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 0:7.074, fo:0.04], , X[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8, fo:0.04])~
+info:~
+Crossing over of 'Ywutiw Etuha' (49.62%) and 'Oliwut Ateuha' (50.38%)~
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:11
+num:88697
+gnum:486
+instances:1
+lifespan:5000.0
+velocity:0.0003407444727264
+distance:1.703722363632
+vertvel:3.70341378598606e-05
+vertpos:-0.00576174100265089
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177719
+
+org:
+name:Ahiwum Yhueha
+genotype:~
+(WXQMLLLLLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8, si:2][N][@][|G:-122.076, 0:13.67, 4:-26.87, 0:5.959, fo:0.04, fo:0.04, 0:1.053, si:2], , LRcMwwX[S]LCqFFFFFWX[N, -6:1][*]cMwwX[S]LCqFFFFFWX[*][|G:102.435, si:999, -8:10.211, in:0, in:0.8])~
+info:~
+Crossing over of 'Ufiwud Atauha' (28.06%) and 'Imiwum Otueha' (71.94%)~
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:15
+numconnections:10
+num:88698
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:7.62779527529356e-05
+distance:0.381389763764678
+vertvel:3.40715846215719e-06
+vertpos:-0.0171413566803313
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177721
+
+org:
+name:Egutac Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:14.065][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:2.38% mutation of 'Ihutum Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88699
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0401120951434892
+distance:200.560475717446
+vertvel:0.000161986028959218
+vertpos:0.0369219270665591
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177723
+
+org:
+name:Icutin Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:6.272][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:109.109, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:1.99% mutation of 'Ocutuz Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88701
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0393077248360318
+distance:196.538624180159
+vertvel:0.000138183735855324
+vertpos:0.0449214460279096
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177727
+
+org:
+name:Aziwic Atuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:5.891,si:2,0:-0.197]LLLLLLLQMLLFFFMFMMMX[*][N,-3:9.086,si:2,s:0][@, -3:10.334][|G:-124.073, 0:13.67, 3:-26.87, 0:5.959,fo:0.04,fo:0.04,0:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:106.486, si:999, -7:10.694, in:0, in:0.8])~
+info:1.70% mutation of 'Ydiwac Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88702
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0385629200829547
+distance:192.814600414773
+vertvel:0.000197426002374956
+vertpos:0.136544713200548
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177729
+
+org:
+name:Ofutul Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:14.065][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:6.215,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:1.98% mutation of 'Egutac Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88703
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0388215940534342
+distance:194.107970267171
+vertvel:0.000170281119758086
+vertpos:0.0488909257423205
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177731
+
+org:
+name:Ysanat Ahuehe
+genotype:~
+(WXrCqWWX[@][G][N, 4:5.891, si:2, 0:-0.197]LLLLLLLQMLLFFFMFMMMX[*][N, -3:9.086, si:2][@, -3:9.705][|G:-124.073, 0:13.67, 3:-26.87, 0:5.959, fo:0.04, fo:0.04, 0:1], , LRcMwwX[S]LCqFFFFFWFFWX[S][*][|G:100.486, si:999, in:0, in:0.8])~
+info:~
+Crossing over of 'Osiwip Atuha' (20.72%) and 'Ecyaf Syhe' (79.28%)~
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:12
+num:88704
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:3.1542197112284e-05
+distance:0.15771098556142
+vertvel:2.40854213520367e-08
+vertpos:-0.0166660501469465
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177733
+
+org:
+name:Oliwut Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:-1.498, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:2.23% mutation of 'Uiwap Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88242
+gnum:485
+instances:2
+lifespan:5000.0
+velocity:0.0392219476969516
+distance:196.109738484758
+vertvel:0.000143059121706344
+vertpos:0.0447580548557403
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g176805
+
+org:
+name:Ihiwam Atuha
+genotype:~
+IXQMiww(, rCqWWX[@, 4:-0.87][G][N, 4:9.71, 2:-10.614,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[N,-2:7.783,in:0.8,si:2][N, 3:3.4,in:0.8][@, -3:11.064][|G:-125.965, 0:13.67, 3:-26.352, 3:-1.498, 0:7.074,fo:0.04,-5:3.731], , LRcMwwX[S]LCqFFFFFWX[*][|G:100.134, si:999, -7:8.03, in:0, in:0.8])~
+info:2.54% mutation of 'Iwiwad Atuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:16
+num:88705
+gnum:481
+instances:1
+lifespan:5000.0
+velocity:0.0394212057684727
+distance:197.106028842363
+vertvel:0.000196887945729133
+vertpos:0.0594385265764034
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177735
+
+org:
+name:Emiwaf Oteuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:1.727][G][N, 5:5.891, 3:-6.822,si:2,0:-0.197]LLLLLLLQMLLFFFMFMMMX[*][N,-3:9.086,si:2][N][@, -4:9.301][|G:-122.475, 0:13.67, 3:-25.151, 0:5.959,fo:0.04,fo:0.04,0:1], , LRcMwwX[S]LCqFFFFFWX[*][|G:109.06, -8:10.694, in:0, in:0.8])~
+info:2.81% mutation of 'Iiwit Oteuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88706
+gnum:485
+instances:1
+lifespan:5000.0
+velocity:0.0371113434141755
+distance:185.556717070877
+vertvel:0.000171963933160417
+vertpos:0.0672167153883876
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177737
+
+org:
+name:Udutum Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:5.834][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:6.272][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:109.109, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:1.99% mutation of 'Icutin Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88707
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.0385932273987098
+distance:192.966136993549
+vertvel:0.000182120978183102
+vertpos:0.0539890084255465
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177739
+
+org:
+name:Orutal Etuha
+genotype:~
+IWXQMiwW(, rCqWWX[@, 4:2.661][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:0.80% mutation of 'Izutir Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88708
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.039604526351531
+distance:198.022631757655
+vertvel:0.000162072172966556
+vertpos:0.0471377154208646
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177741
+
+org:
+name:Ugutag Etuha
+genotype:~
+WXQMiwW(, rCqWWX[@, 4:4.008][N, 5:7.724,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:3.101][@, -4:11.966][|G:-120.812, 0:13.67, 3:-26.941, 3:-0.309, 0:7.074,fo:0.04,s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:104.633, si:999, -8:9.451, in:0, in:0.8,fo:0.04])~
+info:3.17% mutation of 'Ihutum Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88709
+gnum:482
+instances:1
+lifespan:5000.0
+velocity:0.0396974765364133
+distance:198.487382682067
+vertvel:0.000146166357565615
+vertpos:0.041285931358104
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177743
+
+org:
+name:Iniwiz Ateuha
+genotype:~
+WXQMiww(, rCqWWX[@, 5:4.008][G][N, 5:9.237, 3:-10.38,si:2]LLLLLLLLLLFLLLLFFFMFMMMX[*][N,-3:7.202,in:0.8][N, 3:0.308][@, -4:6.421][|G:-121.035, 0:13.989, 3:-27.875, 3:-1.498, 0:5.176,fo:0.04,-6:-0.235], , LRcMwwX[S]LCqFFFFFWWX[*][|G:100.486, si:999, -8:10.211, in:0, in:0.8])~
+info:1.82% mutation of 'Eniwal Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:16
+num:88710
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.0250875375706216
+distance:125.437687853108
+vertvel:0.000154011748358947
+vertpos:0.0418827096779537
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177745
+
+org:
+name:Omiwuh Aheha
+genotype:~
+WXWXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,in:0.8][N, 3:5.168][@, -4:14.233]RcMwwX[S]LCqFFFFFWX[N,-6:1][*][|G:106.486, si:999, -9:10.694, in:0, in:0.8])~
+info:~
+Crossing over of 'Ipufu Ateuha' (38.24%) and 'Iciwif Otueha' (61.76%)~
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:13
+numconnections:9
+num:88711
+gnum:490
+instances:1
+lifespan:5000.0
+velocity:0.00631072014588007
+distance:31.5536007294003
+vertvel:0.000238027209688405
+vertpos:0.00385293113375268
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177747
+
+org:
+name:Eiwuz Ukeuha
+genotype:~
+WXQMiw(LLLLLLLLLLFLLLLFFFMFMMMX[*][N, in:0.8, si:2][N][@, p:1][|G:-120.465, 0:13.989, 3:-26.352, 3:-1.498, 0:7.074, fo:0.04], , LCqWWX[@][G][N, 4:2.02, si:2]LLLLLLLLFFFFFMMMMMX[*][N, in:0.8, si:2][@, -3:9.843][|G:-124.073, 0:13.67, 3:-24.757, 3:-1.498, 0:6.081, fo:0.04, -5:1.918, si:2, s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:10.694, in:0, in:0.8])~
+info:~
+Crossing over of 'Osiwat Ateuha' (60.82%) and 'Atiwap Etuha' (39.18%)~
+energy0:1.0
+numparts:7
+numjoints:6
+numneurons:21
+numconnections:18
+num:88712
+gnum:483
+instances:1
+lifespan:5000.0
+velocity:0.00675382995427112
+distance:33.7691497713556
+vertvel:0.00101551964145463
+vertpos:0.0898769739079133
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177749
+
+org:
+name:Ihiwif Ateuha
+genotype:~
+WXQMiw(, rCqWWX[@, 5:10.518][G][N, 5:5.239, 3:-9.98,si:2,si:2]LLLLLLLLLLFFLLLLFFFMFMMMX[*][N,-3:10.27,in:0.8][N, 3:5.168][@, -4:13.167][|G:-118.111, 0:13.67, 3:-26.657, 3:0.42, 0:7.074,fo:0.04], , LRcMwwwwX[S]LCqFFFFFWX[*][|G:104.521, si:999, -8:10.043, in:0, in:0.8])~
+info:2.22% mutation of 'Oliwut Ateuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:15
+numconnections:15
+num:88499
+gnum:486
+instances:2
+lifespan:5000.0
+velocity:0.0376780721307041
+distance:188.39036065352
+vertvel:0.000161462239063509
+vertpos:0.0492430260764151
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177323
+
+org:
+name:Ugiwil Etuha
+genotype:~
+WXQMiw(, rCqWWX[@][G][N, 4:3.037,si:2]LLLLLLLLFFFFFMMMMMX[*][N,in:0.8,si:2,4:1][@, -3:11.225,p:1][|G:-120.977, 0:13.67, 3:-24.757, 3:-1.498, 0:6.168,fo:0.04,-5:0.852,si:2,s:0], , LRcMwwX[S]LCCqFFFFFWX[*][|G:105.379, si:999, -7:8.368, in:0, in:0.8])~
+info:2.02% mutation of 'Ufiwuw Etuha'
+energy0:1.0
+numparts:6
+numjoints:5
+numneurons:14
+numconnections:13
+num:88713
+gnum:490
+instances:1
+lifespan:5000.0
+velocity:0.039667546829499
+distance:198.337734147495
+vertvel:0.000208103905188103
+vertpos:0.0461284832837736
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177751
+
+org:
+name:Opafah Otuhuha
+genotype:~
+(WXQMiwWWX[@, 5:0.76][G][N, 5:5.891, 3:-9.324, 0:-0.197]LLLLLLLLLLFLLLLFFFMFMMMX[*][N, -3:9.086, in:0.8, si:2][N][@, -4:9.705][|G:-124.073, 0:13.67, 4:-26.87, 0:5.959, fo:0.04, -6:1.263, fo:0.04, 0:1, si:2], , LRcMwwX[S]LCqFFFFFWX[N, -6:0.756]X[*][N, in:0.8][N, 3:2.376][@, -4:9.986][|G:-123.552, 0:13.67, 3:-26.941, 3:2.151, 0:7.074, fo:0.04, s:0], , LRcMwwX[S]LCqFFFFFWX[*][|G:109.109, si:999, -8:9.451, in:0, in:0.8, fo:0.04])~
+info:~
+Crossing over of 'Osiwis Otueha' (45.41%) and 'Onutuf Etuha' (54.59%)~
+energy0:1.0
+numparts:9
+numjoints:8
+numneurons:24
+numconnections:25
+num:88714
+gnum:484
+instances:1
+lifespan:5000.0
+velocity:0.00345425158447331
+distance:17.2712579223665
+vertvel:0.000676491137317486
+vertpos:0.0604991996627345
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g177753
+

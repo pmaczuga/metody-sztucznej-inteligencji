@@ -1,0 +1,26 @@
+# created Tue Mar 12 18:27:36 2019
+# by Framsticks 4.3
+org:
+name:LittleCorss
+genotype:~
+X(CCrXFFFX[|G:-100],LLLLLXX[0:10000],ccRXFFFX[|G:100])~
+info:(manually created)
+energy0:1.0
+numparts:8
+numjoints:7
+numneurons:7
+numconnections:5
+num:1
+gnum:0
+instances:0
+lifespan:0.0
+velocity:0.0
+distance:0.0
+vertvel:0.0
+vertpos:0.0
+user1:@Serialized:null
+user2:@Serialized:null
+user3:@Serialized:null
+is_valid:1
+uid:g162
+
