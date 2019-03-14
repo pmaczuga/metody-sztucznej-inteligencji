@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0.1" xmlns="http://alicebot.org/2001/AIML-1.0.1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://alicebot.org/2001/AIML-1.0.1
+http://aitools.org/aiml/schema/AIML.xsd">
+
+<!--
+Mechanizmy:
+ - synonimy
+ - tematy
+ - that
+ - random
+ - slowo kluczowe
+ - warunek
+ - predykaty
+-->
+
+<!--Synonimy-->
+<category>
+	<pattern>Dzien dobry</pattern>
+	<template>Witam. Czego potrzebujsz</template>
+</category>category>
+<category>
+	<pattern>Czesc</pattern> 
+	<template><srai>Dzien dobry</srai></template>
+</category>
+<category>
+	<pattern>Witaj</pattern> 
+	<template><srai>Dzien dobry</srai></template>
+</category>
+<category>
+	<pattern>Dobry wieczor</pattern> 
+	<template><srai>Dzien dobry</srai></template>
+</category>
+
+<category>
+	<pattern>Z jakiej jestes firmy</pattern>
+	<template>Reprezentuje fudacje Nowoczesna Szkola</template>
+</category>
+<category>
+	<pattern>Czym sie zajmujesz</pattern>
+	<template><srai>Z jakiej jestes firmy?</srai></template>
+</category>
+
+<category>
+	<pattern>Opowiedz mi o fundacji</pattern>
+	<template>
+		Jak sobie zyczysz. Co chcesz wiedziec?
+		<think><set name="topic">FUNDACJA</set></think>
+	</template>
+</category>
+
+<!--predykaty-->
+<category>
+	<pattern>Czy moge z toba porozmawiac</pattern>
+	<template>Oczywiscie</template>
+</category>
+
+<category>
+	<pattern>Czy mozesz powiedziec mi o *</pattern>
+	<template>
+		<think><set name="my_pred"><star/></set></think>
+		Niestety ale nic nie wiem o <get name="my_pred"/>
+	</template>
+</category>
+
+<!--Redukcja symboliczna-->
+<category>
+	<pattern>Chcialbym dowiedzec sie czy *</pattern>
+	<template><srai>Czy <star/></srai></template>
+</category>
+
+<!--Temat-->
+<topic name="FUNDACJA">
+	<category>
+		<pattern>Jakie sa cele fundacji</pattern>
+		<template>Upowszechnianie wiedzy z nauk matematyczno-przyrodniczych</template>
+	</category>
+		<category>
+		<pattern>Czym zajmuje sie fundacja</pattern>
+		<template>Obecnie fundacja zajmuje sie organizacja konkursow matematyczno-przyrodniczych w klsach 7-8 szkoly podstawowej</template>
+	</category>
+
+	<!--that-->
+	<category>
+		<pattern>Ile konkursow fundacja zorganizowala</pattern>
+		<template>Jeszcze zadnego</template>
+	</category>
+	<category>
+		<pattern>Co</pattern>
+		<that>Jeszcze zadnego</that>
+		<template>Fundacja zostala niedawno zalozona</template>
+	</category>
+
+	<!--random-->
+	<category>
+		<pattern>Kiedy fundacja zostala zalozona</pattern>
+		<template>
+			<random>
+				<li>Bardzo niedawno</li>
+				<li>Nowoczesna Szkola to nowa fundacja</li>
+				<li>Nie chcesz wiedziec</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>Zmienmy temat</pattern>
+		<template>
+			Oczywiscie
+			<think><set name="topic">*</set></think>
+		</template>
+	</category>
+</topic>
+
+<!--Warunek-->
+<category>
+	<pattern>Chcialbym zapisac sie na konkurs</pattern>
+	<template>
+		Czy jestes pewny
+		<think><set name="topic">WKOLO</set></think>
+	</template>
+</category>
+<topic name="WKOLO">
+	<category>
+		<pattern>*</pattern>
+		<template>
+			<think><set name="var"><uppercase><star/></uppercase></set></think>
+			<condition>
+				<li name="var" value="TAK">
+					Wspaniale. Zapraszam na konkurs
+					<think><set name="topic">*</set></think>
+				</li>
+				<li name="var" value="NIE">
+					Wielka szkoda.
+					<think><set name="topic">*</set></think>
+				</li>
+				<li>
+					Nie rozumiem. Tak czy nie
+				</li>
+			</condition>
+		</template>
+	</category>
+</topic>
+
+<!--Slowo kluczowe-->
+<category>
+	<pattern>Nowoczesna Szkola</pattern> 
+	<template>Nowoczesna Szkola to nazwa fundacji ktora reprezentuje</template>
+</category>
+<category>
+	<pattern>_ Nowoczesna Szkola</pattern> 
+	<template><srai>Nowoczesna Szkola</srai></template>
+</category>
+<category>
+	<pattern>Nowoczesna Szkola _</pattern>
+	<template><srai>Nowoczesna Szkola</srai></template>
+</category>
+<category>
+	<pattern>_ Nowoczesna Szkola *</pattern>
+	<template><srai>Nowoczesna Szkola</srai></template>
+</category>
+
+
+</aiml>
