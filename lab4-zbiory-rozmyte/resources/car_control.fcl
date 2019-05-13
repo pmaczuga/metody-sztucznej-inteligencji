@@ -1,0 +1,81 @@
+FUNCTION_BLOCK
+
+VAR_INPUT
+speed : REAL;
+acceleration : REAL;
+distance : REAL;
+END_VAR
+
+VAR_OUTPUT
+power : REAL;
+END_VAR
+
+FUZZIFY speed
+TERM stop := (0, 1) (10, 0);
+TERM tooSlow := (0, 0) (20, 1) (30, 0);
+TERM slow := (20, 0) (30, 1) (45, 1) (55, 0);
+TERM optimum := (45, 0) (55, 1) (65, 1) (75, 0);
+TERM fast := (65, 0) (75, 1) (80, 1) (85, 0);
+TERM tooFast := (80, 0) (85, 1) (100, 1);
+END_FUZZIFY
+
+FUZZIFY acceleration
+TERM decc := (-50, 1) (-10, 1) (0, 0);
+TERM constant := (-10, 0) (0, 1) (10, 0);
+TERM acc := (0, 0) (10, 1) (50, 1);
+END_FUZZIFY
+
+FUZZIFY distance
+TERM veryClose := (0, 1) (100, 1) (300, 0);
+TERM close := (100, 0) (200, 1) (300, 1) (400, 0);
+TERM far := (300, 0) (400, 1) (2000, 1);
+END_FUZZIFY
+
+DEFUZZIFY power
+TERM decrease := (-30, 0) (-20, 1) (-10, 0);
+TERM decreaseSlightly := (-20, 0) (-10, 1) (0, 0);
+TERM leave := (-10, 0) (0, 1) (10, 0);
+TERM increaseSlightly := (0, 0) (10, 1) (20, 0);
+TERM increase := (10, 0) (20, 1) (30, 0);
+
+METHOD : COG;
+DEFAULT := 0;
+END_DEFUZZIFY
+
+RULEBLOCK first
+AND: MIN;
+ACT: MIN;
+
+RULE 0: IF speed IS stop AND acceleration is decc THEN power IS increase;
+RULE 1: IF speed IS stop AND acceleration IS constant THEN power IS increase;
+RULE 2: IF speed IS stop AND acceleration IS acc AND distance IS far THEN power IS increase;
+
+RULE 3: IF speed IS tooSlow AND acceleration IS decc THEN power IS increase;
+RULE 4: IF speed IS tooSlow AND acceleration IS constant THEN power IS increase;
+RULE 5: IF speed IS tooSlow AND acceleration IS acc THEN power IS increaseSlightly;
+
+RULE 6: IF speed IS slow AND acceleration IS decc THEN power IS increase;
+RULE 7: IF speed IS slow AND acceleration IS constant THEN power IS increaseSlightly;
+RULE 8: IF speed IS slow AND acceleration IS acc THEN power IS leave;
+
+RULE 9: IF speed IS optimum AND acceleration IS decc THEN power IS increaseSlightly;
+RULE 10: IF speed IS optimum AND acceleration IS constant THEN power IS leave;
+RULE 11: IF speed IS optimum AND acceleration IS acc THEN power IS decreaseSlightly;
+
+RULE 12: IF speed IS fast AND acceleration IS decc THEN power IS leave;
+RULE 13: IF speed IS fast AND acceleration IS constant THEN power IS decreaseSlightly;
+RULE 14: IF speed IS fast AND acceleration IS acc THEN power IS decrease;
+
+RULE 15: IF speed IS tooFast AND acceleration IS decc THEN power IS decreaseSlightly;
+RULE 16: IF speed IS tooFast AND acceleration IS constant THEN power IS decrease;
+RULE 17: IF speed IS tooFast AND acceleration IS acc THEN power IS decrease;
+
+RULE 18: IF distance IS veryClose THEN power IS decrease;
+
+RULE 23: IF distance IS close AND acceleration IS constant THEN power IS leave;
+RULE 24: IF distance IS close AND acceleration IS acc THEN power IS decreaseSlightly;
+RULE 25: IF distance IS close AND acceleration IS decc THEN power IS increaseSlightly;
+
+END_RULEBLOCK
+
+END_FUNCTION_BLOCK
