@@ -1,5 +1,31 @@
 # BOTY INTERNETOWE
 
+## Wykonanie
+
+Bot napisany w AIML symuluje pracownika fundacji Nowoczesna Szkoła zajmującej się organizowanej konkursów. Odpowiada na proste pytania typu:
+
+- Dzien dobry
+- Z jakiej jestes firmy
+- Opowiedz mi o fundacji
+
+Po zapytaniu:
+_Opowiedz mi o fundacji_
+Bot przechodzi w temat _FUNDACJA_, gdzie odpowiada na pytania typu:
+
+- Jakie sa cele fundacji
+- Ile konkursow fundacja zorganizowala
+- Kiedy fundacja zostala zalozona
+
+Bot obsługuje też zapytania warunkowe TAK/NIE podczas próby zapisu do konkursu
+
+Słowo kluczowe _Nowoczesna Szkola_ powoduje odpowiedz: _Nowoczesna Szkola to nazwa fundacji ktora reprezentuje_
+
+### Przykładowa rozmowa
+
+![example](resources/example.png)
+
+## Konspekt
+
 
 ### SPIS TREŚCI
 
@@ -48,8 +74,8 @@ Na drugim biegunie znajduje się **ALICE** (www.alicebot.org) będąc jedną z n
 Obecnie w sieci można znaleźć wiele chat-botów (por. forum dla tego tematu). Katalogi dostępne są w poniższych lokalizacjach:  
 http://www.alicebot.org/directory.html  
 http://dmoz.org/Computers/Artificial_Intelligence/Natural_Language/Chatterbots/  
- 
- 
+
+
 ### AIML (ARTIFICIAL INTELLIGENCE MARKUP LANGUAGE)
 
 #### WSTĘP

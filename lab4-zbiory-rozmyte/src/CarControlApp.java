@@ -25,7 +25,7 @@ public class CarControlApp
 
         double speed = 0.0;
         double acceleration = 0.0;
-        double distance = 600.0;
+        double distance = 650.0;
         double power = 0.0;
 
 
