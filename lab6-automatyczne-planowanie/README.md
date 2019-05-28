@@ -6,13 +6,18 @@
 - kompilacja `compile.bat`
 - uruchomienie `run.bat`
 - Pod Windows. Linux polecenia z .bat (';' -> ':')
-Ważne pliki:
+
+## Ważne pliki
 - folder `images`
 - `logistics` - logika rozwiązania
 - `problem`
 - `antlr.jar`, `JSHOP2.jar`
 - `compile.bat`, `run.bat`
 - `gui.java`
+
+## Działanie
+
+![gif](resources/animation.gif)
 
 # Opis ćwieczenia
 

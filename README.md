@@ -18,3 +18,6 @@
 
 - [ ] [Laboratorium 5 - sieci neuronowe](lab5-sieci-neuronowe)
 
+- [x] [Laboratorium 6 - automatyczne planowanie](lab6-automatyczne-planowanie)
+
+  ![gif](lab6-automatyczne-planowanie/resources/animation.gif)
