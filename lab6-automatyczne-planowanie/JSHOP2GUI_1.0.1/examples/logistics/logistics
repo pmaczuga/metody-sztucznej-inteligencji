@@ -21,14 +21,24 @@
                ((obj-at ?obj ?loc) (cost ?obj (call + ?value 3))))
 
     (:operator (!drive-truck ?truck ?loc-from ?loc-to)
-               ((cost ?obj ?value))
+               ((vehicle-goal ?truck ?obj) (cost ?obj ?value))
                ((truck-at ?truck ?loc-from) (cost ?obj ?value))
                ((truck-at ?truck ?loc-to) (:protection (truck-at ?truck ?loc-to)) (cost ?obj (call + ?value 10))))
 
     (:operator (!fly-airplane ?airplane ?airport-from ?airport-to)
-               ((cost ?obj ?value))
+               ((vehicle-goal ?airplane ?obj) (cost ?obj ?value))
                ((airplane-at ?airplane ?airport-from) (cost ?obj ?value))
                ((airplane-at ?airplane ?airport-to) (:protection (airplane-at ?airplane ?airport-to)) (cost ?obj (call + ?value 100))))
+               
+    (:operator (!add-vehicle-goal ?vehicle ?object)
+                ()
+                ()
+                ((vehicle-goal ?vehicle ?object)))
+                
+    (:operator (!remove-vehicle-goal ?vehicle ?object)
+                ()
+                ((vehicle-goal ?vehicle ?object))
+                ())
 
 
     (:operator (!add-protection ?g)
@@ -69,10 +79,13 @@
 
              ((in-city ?loc-from ?city)
               (truck ?truck ?city))
-             ((truck-at ?truck ?loc-from)
+             (
+                       (:immediate !add-vehicle-goal ?truck ?obj)
+                       (truck-at ?truck ?loc-from)
                        (:immediate !load-truck ?obj ?truck ?loc-from)
                        (truck-at ?truck ?loc-to)
-                       (:immediate !unload-truck ?obj ?truck ?loc-to)))
+                       (:immediate !unload-truck ?obj ?truck ?loc-to)
+                       (:immediate !remove-vehicle-goal ?truck ?obj)))
 
 
     (:method (truck-at ?truck ?loc-to)
@@ -88,18 +101,21 @@
     (:method (air-deliver-obj ?obj ?airport-from ?airport-to)
              airplane-at-the-current-airport
              ((airplane-at ?airplane ?airport-from))
-             ((:immediate !add-protection (airplane-at
-?airplane ?airport-from))
+             ((:immediate !add-protection (airplane-at ?airplane ?airport-from))
+                       (:immediate !add-vehicle-goal ?airplane ?obj)
                        (!load-airplane ?obj ?airplane ?airport-from)
                        (fly-airplane ?airplane ?airport-to)
-                       (!unload-airplane ?obj ?airplane ?airport-to))
+                       (!unload-airplane ?obj ?airplane ?airport-to)
+                       (:immediate !remove-vehicle-goal ?airplane ?obj))
 
              ((airplane-at ?airplane ?any-airport))
-             ((:immediate !fly-airplane ?airplane
-?any-airport ?airport-from)
+             (
+                       (:immediate !add-vehicle-goal ?airplane ?obj)
+                       (:immediate !fly-airplane ?airplane ?any-airport ?airport-from)
                        (!load-airplane ?obj ?airplane ?airport-from)
                        (fly-airplane ?airplane ?airport-to)
-                       (!unload-airplane ?obj ?airplane ?airport-to)))
+                       (!unload-airplane ?obj ?airplane ?airport-to)
+                       (:immediate !remove-vehicle-goal ?airplane ?obj)))
 
     (:method (fly-airplane ?airplane ?airport-to)
              airplane-already-there
