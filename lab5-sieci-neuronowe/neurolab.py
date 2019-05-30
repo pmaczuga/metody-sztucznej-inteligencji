@@ -20,6 +20,8 @@ import numpy as np
 # importujemy biblioteke pomagajaca nam w operacjach tensorowych (niezbedna do poczatkowych cwiczen)
 import tensorflow as tf
 
+import lab5
+
 
 # ladujemy przykladowe dane wejsciowe (klasyczny juz zbior danych z recznie pisanymi cyframi)
 data = k_mnist.load_data()
@@ -76,9 +78,6 @@ def intro():
     plt.show()
     # TODO: sprawdz co zawiera kilka innych elementow; czy sa latwe do rozpoznania dla czlowieka?
 
-    # -------------------------------------------------------------------
-    # It appears to be working
-    # -------------------------------------------------------------------
 def exercise_one():
     # tworzymy nasza pierwsza, minimalna siec
 
@@ -111,10 +110,6 @@ def exercise_one():
     _test_accuracy(session, x, correct_y, y, y_)  # i weryfikujemy skutki na danych testowych
     # TODO: jaki wynik udalo sie uzyskac?
 
-
-# ---------------------------------------------
-# this as well
-# ---------------------------------------------
 def exercise_two():
     # dodajemy do naszej sieci dodatkowa warstwe, w celu zwiekszenia jej pojemnosci i sily wyrazu
 
@@ -156,15 +151,15 @@ def exercise_three():
     correct_y = tf.placeholder(tf.uint8, [None])
     y_ = tf.one_hot(correct_y, 10)
 
-    w1 = None
-    b1 = None
-    h1 = None
+    w1 = tf.Variable(tf.truncated_normal([784, 100], stddev=0.1))
+    b1 = tf.Variable(tf.constant(0.1, shape=[100]))
+    h1 = tf.nn.relu(tf.matmul(x_, w1) + b1)
 
-    w2 = None
-    b2 = None
-    y = None
+    w2 = tf.Variable(tf.zeros([100, 10]))
+    b2 = tf.Variable(tf.zeros([10]))
+    y = tf.nn.softmax(tf.matmul(h1, w2) + b2)
 
-    cross_entropy = None
+    cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_ * tf.log(y), reduction_indices=[1]))
 
     session = _init_session()
     _optimise(session, x, correct_y, cross_entropy)
@@ -178,21 +173,21 @@ def exercise_four():
     model = k_models.Sequential()  # nasza siec bedzie skladac sie z sekwencji warstw (wymienionych ponizej)
 
     # klasa k_layers.X to w rzeczywistosci keras.layers.X (patrz importy u gory pliku) - analogicznie dla innych modulow
-    model.add(None)  # zmienia ksztalt wejscia z (28, 28) na (784, )
+    model.add(k_layers.Reshape((784,), input_shape=(28,28)))  # zmienia ksztalt wejscia z (28, 28) na (784, )
     # TODO: zastap None wykorzystujac odpowiednio skonstruowana instacje klasy k_layers.Reshape
-    model.add(None)  # normalizuje wejscie z 0.0 do 255.0 na 0.0 do 1.0
+    model.add(k_layers.Lambda(lambda x: x/255.0))  # normalizuje wejscie z 0.0 do 255.0 na 0.0 do 1.0
     # TODO: zastap None uzywajac k_layers.Lambda i wykonujac z jej uzyciem odpowiednie dzielenie
-    model.add(None)  # pierwsza prawdziwa warstwa neuronow
+    model.add(k_layers.Dense(100, activation='relu', input_dim=784))  # pierwsza prawdziwa warstwa neuronow
     # TODO: zastap None uzywajac k_layers.Dense, pamietaj o odpowiednim rozmiarze wejsciowym (parametr input_dim),
     # TODO: (c.d.) wyjsciowym (parametr units) i aktywacji (parametr activation) - w tym przypadku relu
-    model.add(None)  # wyjsciowa warstwa neuronow
+    model.add(k_layers.Dense(10, activation='softmax'))  # wyjsciowa warstwa neuronow
     # TODO: zastap None uzywajac k_layers.Dense (analogicznie), pamietaj o wlasciwych rozmiarach i aktywacji softmax\
 
     # teraz kompilujemy nasz zdefiniowany wczesniej model
     model.compile(
-        loss=None,  # tu podajemy czym jest funkcja loss
+        loss=k_losses.categorical_crossentropy,  # tu podajemy czym jest funkcja loss
         # TODO: zastap None wybierajac wlasciwy wariant z k_losses (entropia krzyzowa dla danych kategorycznych)
-        optimizer=None,  # a tu podajemy jak ja optymalizowac
+        optimizer=k_optimizers.SGD(lr=0.1),  # a tu podajemy jak ja optymalizowac
         # TODO: zastac None instancja wlasciwego silnika z k_optimizers (SGD = Stochastic Gradient Descent),
         # TODO: (c.d.) pamietaj o ustaleniu wartosci parametra learning rate (lr)
         metrics=['accuracy']  # tu informujemy, by w trakcie pracy zbierac informacje o uzyskanej skutecznosci
@@ -224,7 +219,7 @@ def exercise_five():
 
     # otworzmy przykladowe zdjecie i dostosujemy jego rozmiar i zakres wartosci do wejscia sieci
     image_path = 'nosacz.jpg'
-    image = k_image.load_img(image_path, target_size=(None, None))
+    image = k_image.load_img(image_path, target_size=(224, 224))
     # TODO: zastap None powyzej zmieniajac rozmiar na taki, jaki przyjmuje wejscie sieci (skorzystaj z wypisanego info)
     x = k_image.img_to_array(image)  # kolejne linie dodatkowo dostosowuja obraz pod dana siec
     x = np.expand_dims(x, axis=0)
@@ -242,23 +237,25 @@ def exercise_five():
 
     # finalnie podgladamy aktywacje jakie wysylaja neurony sieci w trakcie dzialania
     # w wypisanych wczesniej informacjach mozna latwo spradzic ile kanalow ma warstwa o danym numerze (i ktora to)
-    layer_to_preview = 4  # numer warstwy, ktorej aktywacje podgladamy
-    channel_to_preview = 16   # numer kanalu w tejze warstwie
-    get_activations = k.function([model.layers[0].input], [model.layers[layer_to_preview].output])
-    activations = get_activations([x])
-    plt.imshow(activations[0][0, :, :, channel_to_preview], cmap="viridis")
-    plt.show()
-    # TODO: podejrzyj aktywacje w kolejnych warstwach; czym roznia sie te w poczatkowych od tych w koncowych?
+    # layer_to_preview = 4  # numer warstwy, ktorej aktywacje podgladamy
+    # channel_to_preview = 16   # numer kanalu w tejze warstwie
+    # get_activations = k.function([model.layers[0].input], [model.layers[layer_to_preview].output])
+    # activations = get_activations([x])
+    # plt.imshow(activations[0][0, :, :, channel_to_preview], cmap="viridis")
+    # plt.show()
 
+    lab5.visualise_process(model, x, range(1,5))
+
+    # TODO: podejrzyj aktywacje w kolejnych warstwach; czym roznia sie te w poczatkowych od tych w koncowych?
 
 def main():
     # TODO: tu wybieraj wykonywane cwiczenie (wykonuj je zgodnie z kolejnoscia)
     # intro()
     # exercise_one()
-    exercise_two()
+    # exercise_two()
     # exercise_three()
     # exercise_four()
-    # exercise_five()
+    exercise_five()
 
 
 if __name__ == '__main__':

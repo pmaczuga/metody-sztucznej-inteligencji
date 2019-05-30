@@ -21,7 +21,7 @@
 
 # Opis ćwieczenia
 
-Adres internetowy oprogramowania: http://www.cs.umd.edu/projects/shop/ 
+Adres internetowy oprogramowania: http://www.cs.umd.edu/projects/shop/   
 Pliki do pobrania: http://sourceforge.net/projects/shop/files/
 
 ## Wymagania:
