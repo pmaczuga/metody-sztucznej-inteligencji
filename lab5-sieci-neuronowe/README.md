@@ -1,5 +1,9 @@
 # Konwolucyjne sieci neuronowe
 
+## Opis laboratorium
+
+[neurolab.pdf](neurolab.pdf)
+
 ## Wizualizacja wielu warstw
 
 Funkcja `visualise_process(model, x, layers_range)` wizualizuje warstwy z `layers_range` dla modelu `model` i obrazu `x`. Limit warstw = 9. Limit kałów = 32. Pobrana sieć ma 156 warstw. Pokazanie wszystkich razem ze wszystkimi kanałami (1280 dla warstwy 154) byłoby trudne.
@@ -133,6 +137,4 @@ Nie udało mi się dostać do części składowych
 `content_weight = 10`
 
 ![city_style](resources/city_content.png)
-
-## Oszukiwanie sieci
 

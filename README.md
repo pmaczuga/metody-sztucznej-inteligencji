@@ -16,7 +16,9 @@
 
   ![animation](lab4-zbiory-rozmyte/resources/animation.gif)
 
-- [ ] [Laboratorium 5 - sieci neuronowe](lab5-sieci-neuronowe)
+- [x] [Laboratorium 5 - sieci neuronowe](lab5-sieci-neuronowe)
+
+  ![nosacz](lab5-sieci-neuronowe/resources/nosacz.png)
 
 - [x] [Laboratorium 6 - automatyczne planowanie](lab6-automatyczne-planowanie)
 
